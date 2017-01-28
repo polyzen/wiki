@@ -1,9 +1,11 @@
 Recipes
 =======
 
-- `<Pancakes>`_
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-----
+   pancakes
 
 - http://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/
 - http://www.101cookingfortwo.com/crispy-oven-baked-french-fries/
