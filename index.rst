@@ -12,7 +12,7 @@ Welcome to this Wiki!
    reStructuredText
    security
    self-host
-   web_server
+   server_performance
 
 Indices and tables
 ==================
