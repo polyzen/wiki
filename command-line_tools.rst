@@ -4,7 +4,7 @@ Command-line tools
 Calendar & Contacts
 -------------------
 
-**Sync:** `Vdirsyncer <https://vdirsyncer.pimutils.org/>`_ - Synchronizes your calendars and addressbooks between two storages
+**Sync:** `Vdirsyncer <https://vdirsyncer.pimutils.org/en/stable/>`_ - Synchronizes your calendars and addressbooks between two storages
 
 **Calendar:** `khal <http://lostpackets.de/khal/>`_ - Standards based CLI (console) calendar program, able to synchronize with CalDAV servers through Vdirsyncer
 
@@ -16,14 +16,14 @@ Calendar & Contacts
 Email
 -----
 
-**Sync:** `OfflineIMAP <http://offlineimap.org/>`_ - GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
+**Sync:** `OfflineIMAP <http://www.offlineimap.org/>`_ - GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
 
 **Client:** `Mutt <http://www.mutt.org/>`_ - Small but very powerful text-based mail client for Unix operating systems
 
 * `Using Two IMAP Accounts in Mutt <https://pbrisbin.com/posts/two_accounts_in_mutt/>`_
 * `NeoMutt <https://www.neomutt.org/>`_ - Command-line mail reader (or Mail User Agent). It's a version of Mutt with added features
 
-**Index:** `Notmuch <http://notmuchmail.org/>`_ - Thread-based email index, search, and tagging
+**Index:** `Notmuch <https://notmuchmail.org/>`_ - Thread-based email index, search, and tagging
 
 * `Emacs, Notmuch & Offlineimap <http://chrisdone.com/posts/emacs-mail>`_
 

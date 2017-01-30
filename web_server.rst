@@ -15,7 +15,6 @@ Cache/Proxy
 Diagnose
 ^^^^^^^^
 
-- http://webwait.com/
 - https://github.com/wg/wrk
 - https://github.com/giltene/wrk2
 - https://github.com/marcelduran/yslow
@@ -24,7 +23,7 @@ Diagnose
 Other considerations
 ^^^^^^^^^^^^^^^^^^^^
 
-- http://enable-cors.org/
+- https://enable-cors.org/
 - https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli/
 - http://hhvm.com/
 
@@ -39,7 +38,7 @@ Certificate authorities
 
 - http://www.cacert.org/
 - https://www.freessl.com/
-- `Let’s Encrypt  <https://letsencrypt.org/>`_ (suggested)
+- `Let’s Encrypt  <https://letsencrypt.org/>`_ (recommended)
 - https://www.namecheap.com/security/ssl-certificates.aspx
 
 Headers
@@ -65,7 +64,7 @@ Diagnose
 Vulnerabilities
 """""""""""""""
 
-- https://freakattack.com/
+- https://censys.io/blog/freak
 
   - https://tools.keycdn.com/freak
 
@@ -77,7 +76,7 @@ Content Security Policy
 -----------------------
 
 - http://www.w3.org/TR/CSP/ 
-- http://content-security-policy.com/
+- https://content-security-policy.com/
 
 See also
 --------

@@ -31,4 +31,4 @@ Further reading
 ---------------
 
 - `Smoke point <https://en.wikipedia.org/wiki/Smoke_point>`_
-- http://whatscookingamerica.net/Information/CookingOilTypes.htm
+- https://whatscookingamerica.net/Information/CookingOilTypes.htm

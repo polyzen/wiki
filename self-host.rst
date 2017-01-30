@@ -20,11 +20,11 @@ Feed readers
 ------------
 
 - `CommaFeed <https://www.commafeed.com/>`_ - Google Reader inspired self-hosted RSS reader, based on Dropwizard and AngularJS
-- `FreshRSS <http://freshrss.org/>`_ - Free, self-hostable aggregator
+- `FreshRSS <https://freshrss.org/>`_ - Free, self-hostable aggregator
 - `Miniflux <https://miniflux.net/>`_ - Minimalist RSS reader
 - `selfoss <http://selfoss.aditu.de/>`_ - Multipurpose rss reader, live stream, mashup, aggregation web application
 - `Stringer <https://github.com/swanson/stringer>`_ - Self-hosted, anti-social RSS reader
-- `Tiny Tiny RSS <https://www.tt-rss.org/gitlab/fox/tt-rss/wikis/home>`_ - Open source web-based news feed (RSS/Atom) reader and aggregator
+- `Tiny Tiny RSS <https://tt-rss.org/gitlab/fox/tt-rss/wikis/home>`_ - Open source web-based news feed (RSS/Atom) reader and aggregator
 
   * `Newsbeuter synchronization <http://newsbeuter.org/doc/newsbeuter.html#_tiny_tiny_rss_synchronization>`_
 
@@ -40,7 +40,7 @@ Email servers
 Wiki
 ----
 
-* `DokuWiki <https://www.dokuwiki.org/>`_ - Simple to use and highly versatile Open Source wiki software that doesn't require a database
+* `DokuWiki <https://www.dokuwiki.org/dokuwiki>`_ - Simple to use and highly versatile Open Source wiki software that doesn't require a database
 * `Gollum <https://github.com/gollum/gollum>`_ - Simple, Git-powered wiki with a sweet API and local frontend
 * `MediaWiki <https://www.mediawiki.org/wiki/MediaWiki>`_ - Free software open source wiki package written in PHP, originally for use on Wikipedia
 
@@ -57,7 +57,7 @@ Hybrids
 - `ownCloud <https://owncloud.org/>`_ - Access & share your files, calendars, contacts, mail & more from any device, on your terms
 - `Roundcube <https://roundcube.net/>`_ - Browser-based multilingual IMAP client with an application-like user interface
 - `SOGo <https://sogo.nu/>`_ - Very fast and scalable modern collaboration suite (groupware)
-- `Sovereign <https://github.com/al3x/sovereign>`_ - Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more
+- `Sovereign <https://github.com/sovereign/sovereign>`_ - Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more
 
 Misc.
 -----
@@ -71,7 +71,7 @@ Misc.
 - `Gogs (Go Git Service) <https://gogs.io/>`_ - Painless self-hosted Git service
 - `Gitea <https://github.com/go-gitea/gitea>`_ - Git with a cup of tea
 
-**Read-it-later:** `wallabag <https://www.wallabag.org/>`_ - Self hostable application for saving web pages
+**Read-it-later:** `wallabag <https://wallabag.org/en>`_ - Self hostable application for saving web pages
 
 See also
 --------
