@@ -112,6 +112,8 @@ html_domain_indices = False
 
 html_use_index = False
 
+html_sourcelink_suffix = ''
+
 
 # -- Options for HTMLHelp output ------------------------------------------
 
