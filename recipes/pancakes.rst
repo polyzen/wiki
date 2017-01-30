@@ -1,7 +1,7 @@
 Pancakes
 ========
 
-**Note**: Could be fluffier
+.. note:: Could be fluffier.
 
 What you'll need
 ----------------
