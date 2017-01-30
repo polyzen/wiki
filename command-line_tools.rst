@@ -37,4 +37,4 @@ Misc.
 See also
 --------
 
-* `<Self-host>`_
+* :doc:`self-host`

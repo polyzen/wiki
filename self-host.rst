@@ -76,6 +76,6 @@ Misc.
 See also
 --------
 
-- `<Command-line_tools>`_
-- `<Security>`_
-- `<Web_server>`_
+- :doc:`command-line_tools`
+- :doc:`security`
+- :doc:`web_server`

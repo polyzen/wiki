@@ -82,7 +82,7 @@ Content Security Policy
 See also
 --------
 
-- `<Security>`_
+- :doc:`security`
 
 Further reading
 ---------------
