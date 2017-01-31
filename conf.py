@@ -17,9 +17,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('_ext'))
 
 
 # -- General configuration ------------------------------------------------
@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['edit_on_github']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -89,12 +89,7 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {
-    'github_user': 'polyzen',
-    'github_repo': 'wiki',
-    'github_type': 'fork',
-    'github_count': 'false',
-}
+# html_theme_options = {}
 
 html_title = project
 
@@ -111,6 +106,7 @@ html_sidebars = {
         'navigation.html',
         'relations.html',
         'searchbox.html',
+        'sourcelink.html',
     ]
 }
 
@@ -174,4 +170,6 @@ texinfo_documents = [
 ]
 
 
-
+# Edit on GitHub
+edit_on_github_project = 'polyzen/wiki'
+edit_on_github_branch = 'master'
