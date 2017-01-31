@@ -96,6 +96,8 @@ html_theme_options = {
     'github_count': 'false',
 }
 
+html_title = project
+
 html_favicon = '_static/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,

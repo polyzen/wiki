@@ -24,10 +24,7 @@ Other considerations
 - https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli/
 - http://hhvm.com/
 
-See also
---------
-
-- :doc:`security`
+.. seealso:: :doc:`security`
 
 Further reading
 ---------------

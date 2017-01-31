@@ -4,19 +4,18 @@ Security
 Safeguards
 ----------
 
-- https://grsecurity.net (hardened kernel)
-
-- http://netfilter.org/projects/nftables/ (firewall)
+- `grsecurity <https://grsecurity.net>`_ (hardened kernel)
+- `nftables <http://netfilter.org/projects/nftables/>`_ (firewall)
 
   - `sudokode's example <http://sprunge.us/IgHE>`_
   - `vodik's example <https://ptpb.pw/XKVI>`_
 
-- http://www.sshguard.net (brute-force protection)
+- `sshguard <http://www.sshguard.net>`_ (brute-force protection)
+- `WireGuard <https://www.wireguard.io/>`_ (VPN)
+- `Secure SSH <https://stribika.github.io/2015/01/04/secure-secure-shell.html>`_
 
-- https://www.wireguard.io/ (VPN)
-
-Pentesting
-----------
+Pentest
+-------
 
 - https://www.kali.org/
 - http://www.dvwa.co.uk/
@@ -76,8 +75,6 @@ Further reading
 ---------------
 
 - https://www.owasp.org/index.php/Main_Page
-
-- https://stribika.github.io/2015/01/04/secure-secure-shell.html
 
 - https://github.com/paragonie/awesome-appsec
 - https://github.com/apsdehal/awesome-ctf
