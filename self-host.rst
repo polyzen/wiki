@@ -17,8 +17,8 @@ Calendar & Contacts
   CardDAV servers
 
   - `Baïkal <http://sabre.io/baikal/>`_ : server : PHP
-    Cal and CardDAV server, based on sabre/dav, that includes an administrative
-    interface for easy management
+      Cal and CardDAV server, based on sabre/dav, that includes an administrative
+      interface for easy management
 
 `AgenDAV <http://agendav.org/>`_ : client : PHP
   Open source multilanguage CalDAV web client which features a rich AJAX

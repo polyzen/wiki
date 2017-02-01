@@ -20,8 +20,8 @@ Safeguards
 `nftables <http://netfilter.org/projects/nftables/>`_ : firewall
   Administration tool for packet filtering and classification
 
-- `sudokode's example <http://sprunge.us/IgHE>`_
-- `vodik's example <https://ptpb.pw/XKVI>`_
+  - `sudokode's example <http://sprunge.us/IgHE>`_
+  - `vodik's example <https://ptpb.pw/XKVI>`_
 
 `sshguard <http://www.sshguard.net>`_ : brute-force protection
   Aggregates system logs and blocks repeat offenders using one of several
@@ -35,14 +35,14 @@ Safeguards
   free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
 
-- `Secure SSH <https://stribika.github.io/2015/01/04/secure-secure-shell.html>`_
+  - `Secure SSH <https://stribika.github.io/2015/01/04/secure-secure-shell.html>`_
 
 `Content Security Policy <http://www.w3.org/TR/CSP/>`_
   Mechanism by which web developers can control the resources which a particular
   page can fetch or execute, as well as a number of security-relevant policy
   decisions
 
-- `Quick Reference Guide <https://content-security-policy.com/>`_
+  - `Quick Reference Guide <https://content-security-policy.com/>`_
 
 .. seealso:: :doc:`transport_layer_security`
 

@@ -25,14 +25,14 @@ Email
 `Mutt <http://www.mutt.org/>`_ : client : C
   Small but very powerful text-based mail client for Unix operating systems
 
-- `Using Two IMAP Accounts in Mutt <https://pbrisbin.com/posts/two_accounts_in_mutt/>`_
-- `NeoMutt <https://www.neomutt.org/>`_
-    Version of Mutt with added features
+  - `Using Two IMAP Accounts in Mutt <https://pbrisbin.com/posts/two_accounts_in_mutt/>`_
+  - `NeoMutt <https://www.neomutt.org/>`_
+      Version of Mutt with added features
 
 `Notmuch <https://notmuchmail.org/>`_ : index : C/C++
   Thread-based email index, search, and tagging
 
-- `Emacs, Notmuch & Offlineimap <http://chrisdone.com/posts/emacs-mail>`_
+  - `Emacs, Notmuch & Offlineimap <http://chrisdone.com/posts/emacs-mail>`_
 
 Misc.
 -----
