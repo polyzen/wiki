@@ -13,9 +13,3 @@ Welcome to this Wiki!
    security
    self-host
    server_performance
-
-Indices and tables
-==================
-
-- :ref:`genindex`
-- :ref:`search`
