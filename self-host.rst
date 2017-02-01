@@ -55,7 +55,7 @@ Email
   with security primarily in mind
 
 `OpenSMTPD <https://www.opensmtpd.org/>`_ : send : C
-  FREE implementation of the server-side SMTP protocol as defined by RFC 5321,
+  FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
   with some additional standard extension
 
 Wiki
