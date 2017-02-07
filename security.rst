@@ -32,7 +32,7 @@ Safeguards
   cryptography
 
 `OpenSSH <https://www.openssh.com/>`_ : Secure Shell
-  free SSH protocol suite providing encryption for network services like remote
+  Free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
 
   - `Secure SSH <https://stribika.github.io/2015/01/04/secure-secure-shell.html>`_

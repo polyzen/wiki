@@ -17,7 +17,7 @@ Cache/Proxy
   Web application accelerator also known as a caching HTTP reverse proxy
 
 `Squid <http://www.squid-cache.org/>`_ : C++
-  caching proxy for the Web supporting HTTP, HTTPS, FTP, and more
+  Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more
 
 Diagnose
 --------
