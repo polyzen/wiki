@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Wiki'
-copyright = '2017, Daniel M. Capella'
+copyright = '2017'
 author = 'Daniel M. Capella'
 
 # The version info for the project you're documenting, acts as replacement for
