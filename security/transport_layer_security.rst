@@ -69,5 +69,3 @@ Vulnerabilities
 - `Weak Diffie-Hellman and the Logjam Attack <https://weakdh.org/>`_
 - `SHA-1 certificates <https://shaaaaaaaaaaaaa.com/>`_ (has information on
   certs and intermediate certs)
-
-.. seealso:: :doc:`security`

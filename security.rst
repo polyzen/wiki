@@ -1,6 +1,10 @@
 Security
 ========
 
+.. toctree::
+
+   TLS <security/transport_layer_security>
+
 Pentest
 -------
 
@@ -43,8 +47,6 @@ Safeguards
   decisions
 
   - `Quick Reference Guide <https://content-security-policy.com/>`_
-
-.. seealso:: :doc:`transport_layer_security`
 
 Further reading
 ---------------
