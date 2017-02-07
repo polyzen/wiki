@@ -24,8 +24,8 @@ Safeguards
 `nftables <http://netfilter.org/projects/nftables/>`_ : firewall
   Administration tool for packet filtering and classification
 
-  - `sudokode's example <http://sprunge.us/IgHE>`_
-  - `vodik's example <https://ptpb.pw/XKVI>`_
+  - `Example by sudokode <http://sprunge.us/IgHE>`_
+  - `Example by Simon "vodik" Gomizelj <https://ptpb.pw/XKVI>`_
 
 `sshguard <http://www.sshguard.net>`_ : brute-force protection
   Aggregates system logs and blocks repeat offenders using one of several
