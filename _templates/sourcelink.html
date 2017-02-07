@@ -9,7 +9,15 @@
   {%- endif %}
   {%- if edit_on_github_url %}
     <li><a href="{{ edit_on_github_url }}"
-           rel="nofollow">{{ _('Edit on GitHub') }}</a></li>
+           rel="nofollow">{{ _('Edit') }}</a></li>
+  {%- endif %}
+  {%- if history_on_github_url %}
+    <li><a href="{{ history_on_github_url }}"
+           rel="nofollow">{{ _('History') }}</a></li>
+  {%- endif %}
+  {%- if annotate_on_github_url %}
+    <li><a href="{{ annotate_on_github_url }}"
+           rel="nofollow">{{ _('Annotate') }}</a></li>
   {%- endif %}
   </ul>
 {%- endif %}

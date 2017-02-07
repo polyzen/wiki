@@ -31,9 +31,13 @@ def html_page_context(app, pagename, templatename, context, doctree):
     path = os.path.relpath(doctree.get('source'), app.builder.srcdir)
     show_url = get_github_url(app, 'blob', path)
     edit_url = get_github_url(app, 'edit', path)
+    history_url = get_github_url(app, 'commits', path)
+    annotate_url = get_github_url(app, 'blame', path)
 
     context['show_on_github_url'] = show_url
     context['edit_on_github_url'] = edit_url
+    context['history_on_github_url'] = history_url
+    context['annotate_on_github_url'] = annotate_url
 
 
 def setup(app):
