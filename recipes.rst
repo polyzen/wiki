@@ -4,7 +4,7 @@ Recipes
 .. toctree::
    :titlesonly:
 
-   pancakes
+   recipes/pancakes
 
 - `Oven Baked Chicken Legs – The Art of Drummies <http://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/>`_
 - `Easiest Crispy Oven Baked French Fries <http://www.101cookingfortwo.com/crispy-oven-baked-french-fries/>`_

@@ -5,7 +5,7 @@ Welcome to this Wiki!
    :maxdepth: 2
    :caption: Contents:
 
-   recipes/start
+   recipes
    bike_racks
    command-line_tools
    diy_sous-vide
