@@ -17,9 +17,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-import os
-import sys
-sys.path.insert(0, os.path.abspath('_ext'))
+# import os
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- General configuration ------------------------------------------------
@@ -31,7 +31,7 @@ sys.path.insert(0, os.path.abspath('_ext'))
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['edit_on_github']
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -83,7 +83,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -93,6 +93,14 @@ html_theme = 'alabaster'
 
 html_title = project
 
+html_context = {
+    'display_github': True,
+    'github_user': 'polyzen',
+    'github_repo': 'wiki',
+    'github_version': 'master',
+    'conf_py_path': '/',
+}
+
 html_favicon = '_static/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -100,21 +108,9 @@ html_favicon = '_static/favicon.ico'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_sidebars = {
-    '**': [
-        'about.html',
-        'navigation.html',
-        'relations.html',
-        'searchbox.html',
-        'sourcelink.html',
-    ]
-}
-
 html_domain_indices = False
 
 html_use_index = False
-
-html_sourcelink_suffix = ''
 
 
 # -- Options for HTMLHelp output ------------------------------------------
@@ -172,8 +168,3 @@ texinfo_documents = [
      author, 'Wiki', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-# Edit on GitHub
-edit_on_github_project = 'polyzen/wiki'
-edit_on_github_branch = 'master'
