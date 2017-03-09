@@ -17,8 +17,8 @@ Calendar & Contacts
   CardDAV servers
 
   - `Baïkal <http://sabre.io/baikal/>`_ : server : PHP
-      Cal and CardDAV server, based on sabre/dav, that includes an administrative
-      interface for easy management
+      Cal and CardDAV server, based on sabre/dav, that includes an
+      administrative interface for easy management
 
 `AgenDAV <http://agendav.org/>`_ : client : PHP
   Open source multilanguage CalDAV web client which features a rich AJAX
@@ -65,6 +65,9 @@ Wiki
   Simple to use and highly versatile Open Source wiki software that doesn't
   require a database
 
+`gitit <https://github.com/jgm/gitit>`_ : Haskell
+  Wiki using HAppS, pandoc, and git
+
 `Gollum <https://github.com/gollum/gollum>`_ : Ruby
   Simple, Git-powered wiki with a sweet API and local frontend
 
@@ -72,13 +75,9 @@ Wiki
   Free software open source wiki package written in PHP, originally for use on
   Wikipedia
 
-**Honorable mentions:**
-
-`gitit <https://github.com/jgm/gitit>`_ : Haskell
-  Wiki using HAppS, pandoc, and git
-
 `Realms <http://realms.io/>`_ : Python
-  Git based wiki inspired by Gollum
+  Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger.
+  Basic authentication and registration included.
 
 Hybrids
 -------
