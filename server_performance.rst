@@ -5,8 +5,8 @@ Cache/Proxy
 -----------
 
 `HAProxy <http://www.haproxy.org/>`_ : C
-  Free, very fast and reliable solution offering high availability, load
-  balancing, and proxying for TCP and HTTP-based applications
+  Free, fast and reliable solution offering high availability, load balancing,
+  and proxying for TCP and HTTP-based applications
 
 `memcached <http://www.memcached.org/>`_ : C
   Free & open source, high-performance, distributed memory object caching

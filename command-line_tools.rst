@@ -14,7 +14,7 @@ Calendar & Contacts
   Console carddav client
 
 `mates <https://github.com/untitaker/mates.rs>`_: contacts : Rust
-  Very simple commandline addressbook
+  Simple commandline addressbook
 
 Email
 -----
@@ -23,7 +23,7 @@ Email
   GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
 
 `Mutt <http://www.mutt.org/>`_ : client : C
-  Small but very powerful text-based mail client for Unix operating systems
+  Small but powerful text-based mail client for Unix operating systems
 
   - `Using Two IMAP Accounts in Mutt <https://pbrisbin.com/posts/two_accounts_in_mutt/>`_
   - `NeoMutt <https://www.neomutt.org/>`_

@@ -6,6 +6,10 @@ Host your own services
 Calendar & Contacts
 -------------------
 
+`AgenDAV <http://agendav.org/>`_ : client : PHP
+  Open source multilanguage CalDAV web client which features a rich AJAX
+  interface with shared calendars support
+
 `DAViCal <http://www.davical.org/>`_ : server : PHP
   Server for calendar sharing
 
@@ -19,10 +23,6 @@ Calendar & Contacts
   - `Baïkal <http://sabre.io/baikal/>`_ : server : PHP
       Cal and CardDAV server, based on sabre/dav, that includes an
       administrative interface for easy management
-
-`AgenDAV <http://agendav.org/>`_ : client : PHP
-  Open source multilanguage CalDAV web client which features a rich AJAX
-  interface with shared calendars support
 
 Feed readers
 ------------
@@ -96,7 +96,7 @@ Hybrids
   Browser-based multilingual IMAP client with an application-like user interface
 
 `SOGo <https://sogo.nu/>`_ : Objective-C
-  Very fast and scalable modern collaboration suite (groupware)
+  Fast and scalable modern collaboration suite (groupware)
 
 `Sovereign <https://github.com/sovereign/sovereign>`_ : Ansible
   Set of Ansible playbooks to build and maintain your own private cloud: email,

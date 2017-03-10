@@ -15,8 +15,8 @@ Certificate authorities
 -----------------------
 
 `CAcert <http://www.cacert.org/>`_
-  Community-driven Certificate Authority that issues certificates to the public
-  at large for free
+  Community-driven Certificate Authority that issues free certificates to the public
+  at large
 
 `FreeSSL <https://www.freessl.com/>`_
   Free Website Security for Nonprofits and Startups
