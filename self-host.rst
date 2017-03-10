@@ -89,9 +89,8 @@ Hybrids
   Free & open modern, fast email client with user-friendly encryption and
   privacy features
 
-`ownCloud <https://owncloud.org/>`_ : PHP
-  Access & share your files, calendars, contacts, mail & more from any device,
-  on your terms
+`Nextcloud <https://nextcloud.com/>`_ : PHP
+  Safe home for all your data
 
 `Roundcube <https://roundcube.net/>`_ : PHP
   Browser-based multilingual IMAP client with an application-like user interface
