@@ -27,6 +27,15 @@ Safeguards
   - `Example by sudokode <http://sprunge.us/IgHE>`_
   - `Example by Simon "vodik" Gomizelj <https://ptpb.pw/XKVI>`_
 
+`Docker <https://www.docker.com/>`_ : application container
+  Run applications securely isolated in a container, packaged with all its
+  dependencies and libraries
+
+`LXC <https://linuxcontainers.org/>`_ : system container
+  Offers an environment as close as possible to the one you'd get from a VM but
+  without the overhead that comes with running a separate kernel and simulating
+  all the hardware
+
 `OpenSSH <https://www.openssh.com/>`_ : Secure Shell
   Free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
