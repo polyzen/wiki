@@ -34,6 +34,10 @@ HTTP Strict Transport Security (HSTS) :RFC:`6797`
 Diagnose
 --------
 
+`Observatory <https://observatory.mozilla.org/>`_ : Online
+  Project designed to help developers, system administrators, and security
+  professionals configure their sites safely and securely
+
 `Qualys SSL Labs SSL Server Test <https://www.ssllabs.com/ssltest/>`_ : Online
   Performs a deep analysis of the configuration of any SSL web server on the
   public Internet
@@ -51,11 +55,7 @@ Diagnose
 Vulnerabilities
 ^^^^^^^^^^^^^^^
 
-- `Disable SSL3 <http://disablessl3.com/>`_
 - `FREAK <https://censys.io/blog/freak>`_
-
-  - https://tools.keycdn.com/freak
-
-- `SHA-1 certificates <https://shaaaaaaaaaaaaa.com/>`_ (has information on
-  certs and intermediate certs)
+- `SHA-1 certificates <https://shaaaaaaaaaaaaa.com/>`_
+- `SSL3 <http://disablessl3.com/>`_
 - `Weak Diffie-Hellman and the Logjam Attack <https://weakdh.org/>`_
