@@ -27,6 +27,12 @@ Safeguards
   - `Example by sudokode <http://sprunge.us/IgHE>`_
   - `Example by Simon "vodik" Gomizelj <https://ptpb.pw/XKVI>`_
 
+`OpenSSH <https://www.openssh.com/>`_ : Secure Shell
+  Free SSH protocol suite providing encryption for network services like remote
+  login or remote file transfers
+
+  - `Secure SSH <https://stribika.github.io/2015/01/04/secure-secure-shell.html>`_
+
 `sshguard <http://www.sshguard.net>`_ : brute-force protection
   Aggregates system logs and blocks repeat offenders using one of several
   firewall backends
@@ -35,13 +41,7 @@ Safeguards
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art
   cryptography
 
-`OpenSSH <https://www.openssh.com/>`_ : Secure Shell
-  Free SSH protocol suite providing encryption for network services like remote
-  login or remote file transfers
-
-  - `Secure SSH <https://stribika.github.io/2015/01/04/secure-secure-shell.html>`_
-
-`Content Security Policy <http://www.w3.org/TR/CSP/>`_
+`Content Security Policy <http://www.w3.org/TR/CSP/>`_ : HTTP header
   Mechanism by which web developers can control the resources which a particular
   page can fetch or execute, as well as a number of security-relevant policy
   decisions

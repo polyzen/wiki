@@ -24,6 +24,17 @@ Calendar & Contacts
       Cal and CardDAV server, based on sabre/dav, that includes an
       administrative interface for easy management
 
+Email
+-----
+
+`Dovecot <http://dovecot.org/>`_ : retrieve : C
+  Open source IMAP and POP3 email server for Linux/UNIX-like systems, written
+  with security primarily in mind
+
+`OpenSMTPD <https://www.opensmtpd.org/>`_ : send : C
+  FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
+  with some additional standard extension
+
 Feed readers
 ------------
 
@@ -46,17 +57,6 @@ Feed readers
   - `Newsbeuter synchronization <http://newsbeuter.org/doc/newsbeuter.html#_tiny_tiny_rss_synchronization>`_
 
 **Reference:** https://www.devolve.net/blog/2015/04/24/self-hosted-open-source-rss-readers/
-
-Email
------
-
-`Dovecot <http://dovecot.org/>`_ : retrieve : C
-  Open source IMAP and POP3 email server for Linux/UNIX-like systems, written
-  with security primarily in mind
-
-`OpenSMTPD <https://www.opensmtpd.org/>`_ : send : C
-  FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
-  with some additional standard extension
 
 Wiki
 ----
