@@ -3,7 +3,7 @@ Security
 
 .. toctree::
 
-   TLS <security/transport_layer_security>
+   TLS <security/Transport_Layer_Security>
 
 Pentest
 -------

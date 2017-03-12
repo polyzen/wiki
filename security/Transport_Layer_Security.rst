@@ -7,19 +7,9 @@ Transport Layer Security
 
 `Cipherli.st <https://cipherli.st/>`_
   Strong Ciphers for Apache, nginx and Lighttpd
-  
+
 `Is TLS Fast Yet? <https://istlsfastyet.com/>`_
   Yes, yes it is.
-
-Certificate authorities
------------------------
-
-`CAcert <http://www.cacert.org/>`_
-  Community-driven Certificate Authority that issues free certificates to the public
-  at large
-
-`FreeSSL <https://www.freessl.com/>`_
-  Free Website Security for Nonprofits and Startups
 
 `Let’s Encrypt  <https://letsencrypt.org/>`_
   Free, automated, and open Certificate Authority
@@ -44,12 +34,6 @@ HTTP Strict Transport Security (HSTS) :RFC:`6797`
 Diagnose
 --------
 
-`SSLyze <https://github.com/nabla-c0d3/sslyze>`_ : Python
-	Fast and powerful SSL/TLS server scanning library
-
-`testssl.sh <https://github.com/drwetter/testssl.sh>`_ : Bash
-  Testing TLS/SSL encryption anywhere on any port
-
 `Qualys SSL Labs SSL Server Test <https://www.ssllabs.com/ssltest/>`_ : Online
   Performs a deep analysis of the configuration of any SSL web server on the
   public Internet
@@ -58,14 +42,20 @@ Diagnose
   PHP script which decodes an SSL connection and/or certificate and displays
   information
 
+`SSLyze <https://github.com/nabla-c0d3/sslyze>`_ : Python
+  Fast and powerful SSL/TLS server scanning library
+
+`testssl.sh <https://github.com/drwetter/testssl.sh>`_ : Bash
+  Testing TLS/SSL encryption anywhere on any port
+
 Vulnerabilities
 ^^^^^^^^^^^^^^^
 
+- `Disable SSL3 <http://disablessl3.com/>`_
 - `FREAK <https://censys.io/blog/freak>`_
 
   - https://tools.keycdn.com/freak
 
-- `Disable SSL3 <http://disablessl3.com/>`_
-- `Weak Diffie-Hellman and the Logjam Attack <https://weakdh.org/>`_
 - `SHA-1 certificates <https://shaaaaaaaaaaaaa.com/>`_ (has information on
   certs and intermediate certs)
+- `Weak Diffie-Hellman and the Logjam Attack <https://weakdh.org/>`_
