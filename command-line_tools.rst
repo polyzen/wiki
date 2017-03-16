@@ -4,43 +4,55 @@ Command-line tools
 Calendar & Contacts
 -------------------
 
-`Vdirsyncer <https://vdirsyncer.pimutils.org/en/stable/>`_ : sync : Python
+`Vdirsyncer`__ : Python : sync
   Synchronizes your calendars and addressbooks between two storages
 
-`khal <http://lostpackets.de/khal/>`_ : calendar : Python
+  __ https://vdirsyncer.pimutils.org/en/stable/
+
+`khal`__ : Python : calendar
   Standards based CLI (console) calendar program
 
-`khard <https://github.com/scheibler/khard>`_ : contacts : Python
+  __ http://lostpackets.de/khal/
+
+`khard`__ : Python : contacts
   Console carddav client
 
-`mates <https://github.com/untitaker/mates.rs>`_: contacts : Rust
+  __ https://github.com/scheibler/khard
+
+`mates`__ : Rust : contacts
   Simple commandline addressbook
+
+  __ https://github.com/untitaker/mates.rs
 
 Email
 -----
 
-`OfflineIMAP <http://www.offlineimap.org/>`_ : sync : Python
+`OfflineIMAP`__ : Python : sync
   GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
 
-`Mutt <http://www.mutt.org/>`_ : client : C
+  __ http://www.offlineimap.org/
+
+`Mutt`__ : C : client
   Small but powerful text-based mail client for Unix operating systems
 
-  - `Using Two IMAP Accounts in Mutt <https://pbrisbin.com/posts/two_accounts_in_mutt/>`_
-  - `NeoMutt <https://www.neomutt.org/>`_
-      Version of Mutt with added features
+  __ http://www.mutt.org/
 
-`Notmuch <https://notmuchmail.org/>`_ : index : C/C++
+`Notmuch`__ : C/C++ : index
   Thread-based email index, search, and tagging
 
-  - `Emacs, Notmuch & Offlineimap <http://chrisdone.com/posts/emacs-mail>`_
+  __ https://notmuchmail.org/
 
 Misc.
 -----
 
-`Buku <https://github.com/jarun/Buku>`_ : bookmarks : Python
+`Buku`__ : Python : bookmark manager
   Powerful bookmark management utility written in Python3 and SQLite3
 
-`newsbeuter <http://www.newsbeuter.org/>`_ : feeds : C++
+  __ https://github.com/jarun/Buku
+
+`newsbeuter`__ : C++ : feed reader
   Open-source RSS/Atom feed reader for text terminals
+
+  __ http://www.newsbeuter.org/
 
 .. seealso:: :doc:`self-host`

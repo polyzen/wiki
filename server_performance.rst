@@ -1,49 +1,60 @@
 Server performance
 ==================
 
-Cache/Proxy
------------
+Cache/Load balance
+------------------
 
-`HAProxy <http://www.haproxy.org/>`_ : C
+`HAProxy`__ : C : load balancer
   Free, fast and reliable solution offering high availability, load balancing,
   and proxying for TCP and HTTP-based applications
 
-`memcached <http://www.memcached.org/>`_ : C
+  __ http://www.haproxy.org/
+
+`memcached`__ : C : memory cache
   Free & open source, high-performance, distributed memory object caching
   system, generic in nature, but intended for use in speeding up dynamic web
   applications by alleviating database load
 
-`Varnish <https://www.varnish-cache.org/>`_ : C
+  __ http://www.memcached.org/
+
+`Varnish`__ : C : caching proxy
   Web application accelerator also known as a caching HTTP reverse proxy
 
-`Squid <http://www.squid-cache.org/>`_ : C++
-  Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more
+  __ https://www.varnish-cache.org/
 
 Diagnose
 --------
 
-`wrk <https://github.com/wg/wrk>`_ : C
-  HTTP benchmarking tool
+`wrk`__ / `wrk2`__ : C
+  HTTP benchmarking tool / Constant throughput, correct latency recording
+  variant
 
-`wrk2 <https://github.com/giltene/wrk2>`_ : C
-  Constant throughput, correct latency recording variant of wrk
+  __ https://github.com/wg/wrk
+  __ https://github.com/giltene/wrk2
 
-`YSlow <http://yslow.org/>`_ : JS
+`YSlow`__ : JS
   Analyzes web pages and why they're slow based on Yahoo!'s rules for high
   performance web sites
 
-`bombardier <https://github.com/codesenberg/bombardier>`_ : Go
+  __ http://yslow.org/
+
+`bombardier`__ : Go
   HTTP(S) benchmarking tool
+
+  __ https://github.com/codesenberg/bombardier
 
 .. seealso:: :doc:`security`
 
 Further reading
 ---------------
 
-- `Better than Gzip Compression with Brotli <https://hacks.mozilla.org/2015/11/better-than-gzip-compression-with-brotli/>`_
-- `enable cross-origin resource sharing <https://enable-cors.org/>`_
-- `HHVM <http://hhvm.com/>`_
-    Open-source virtual machine designed for executing programs written in Hack
-    and PHP
-- `List of HTTP header fields <https://en.wikipedia.org/wiki/List_of_HTTP_header_fields>`_
-- `Search Engine Optimization (SEO) <https://marcobiedermann.github.io/search-engine-optimization/>`_
+- `Cross-Origin Resource Sharing (CORS)`__ - Mechanism to enable client-side
+  cross-origin requests
+- `HHVM`__ - Open-source virtual machine designed for executing programs written
+  in Hack and PHP
+- `Zstandard (zstd)`__ - Real-time compression algorithm, providing
+  high compression ratios
+
+__ https://enable-cors.org/
+__ http://hhvm.com/
+__ https://facebook.github.io/zstd/
