@@ -19,6 +19,11 @@ Bookmark manager
 
   __ https://github.com/skx/bookmarks.public
 
+`Shaarli`__ : PHP
+  Personal, minimalist, super-fast, database free, bookmarking service
+
+  __ https://github.com/shaarli/Shaarli
+
 Calendar & Contacts
 -------------------
 
