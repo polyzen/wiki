@@ -1,6 +1,14 @@
 Command-line tools
 ==================
 
+Bookmark manager
+----------------
+
+`Buku`__ : Python
+  Powerful bookmark management utility written in Python3 and SQLite3
+
+  __ https://github.com/jarun/Buku
+
 Calendar & Contacts
 -------------------
 
@@ -42,15 +50,10 @@ Email
 
   __ https://notmuchmail.org/
 
-Misc.
------
+Feed reader
+-----------
 
-`Buku`__ : Python : bookmark manager
-  Powerful bookmark management utility written in Python3 and SQLite3
-
-  __ https://github.com/jarun/Buku
-
-`newsbeuter`__ : C++ : feed reader
+`newsbeuter`__ : C++
   Open-source RSS/Atom feed reader for text terminals
 
   __ http://www.newsbeuter.org/

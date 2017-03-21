@@ -37,13 +37,13 @@ __ http://www.popsugar.com/food/How-Make-Homemade-Clif-Bars-37977261
 Misc.
 -----
 
+- “`Homemade Puff Cereal`__”
 - “`Oven Baked Chicken Legs – The Art of Drummies`__”
 - `"Really good burger"`__
-- “`Homemade Puff Cereal`__”
 
+__ http://www.eatgood4life.com/homemade-puff-cereal/
 __ http://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/
 __ https://imgur.com/a/LmEHP
-__ http://www.eatgood4life.com/homemade-puff-cereal/
 
 Smoke point
 -----------

@@ -3,65 +3,78 @@ Self-host
 
 Host your own services
 
+App platform
+--------------
+
+`Nextcloud`__ : PHP
+  Safe home for all your data
+
+  __ https://nextcloud.com/
+
+Bookmark manager
+----------------
+
+`bookmarks.public`__ : JS
+  Template for self-hosted bookmarks using HTML & jQuery
+
+  __ https://github.com/skx/bookmarks.public
+
 Calendar & Contacts
 -------------------
 
-Client
-^^^^^^
-
-`AgenDAV`__ : PHP
+`AgenDAV`__ : PHP : client
   Open source multilanguage CalDAV web client which features a rich AJAX
   interface with shared calendars support
 
   __ http://agendav.org/
 
-Server
-^^^^^^
-
-`DAViCal`__ : PHP
+`DAViCal`__ : PHP : server
   Server for calendar sharing
 
   __ http://www.davical.org/
 
-`Radicale`__ : Python
+`Radicale`__ : Python : server
   Simple calendar and contact server
 
   __ http://radicale.org/
 
-`sabre/dav`__ / `Baïkal`__ : PHP
+`sabre/dav`__ / `Baïkal`__ : PHP : server
   Most popular WebDAV framework for PHP. Use it to create WebDAV, CalDAV and
   CardDAV servers / Includes an administrative interface for easy management
 
   __ http://sabre.io/
   __ http://sabre.io/baikal/
 
+Development platform
+--------------------
+
+`Gogs`__ / `Gitea`__ : Go
+  Painless self-hosted Git service / Community fork
+
+  __ https://gogs.io/
+  __ https://github.com/go-gitea/gitea
+
 Email
 -----
 
-Client
-^^^^^^
-
-`Mailpile`__ : Python
+`Mailpile`__ : Python : client
   Free & open modern, fast email client with user-friendly encryption and
   privacy features
 
   __ https://www.mailpile.is/
 
-`Roundcube`__ : PHP
+`Roundcube`__ : PHP : client
   Browser-based multilingual IMAP client with an application-like user interface
 
   __ https://roundcube.net/
 
-Server
-^^^^^^
-
-`Dovecot`__ : C : retrieve
+`Dovecot`__ : C : server : retrieve
   Open source IMAP and POP3 email server for Linux/UNIX-like systems, written
   with security primarily in mind
 
   __ http://dovecot.org/
 
-`OpenSMTPD`__ : C : send
+`OpenSMTPD`__ : C : server : send
   FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
   with some additional standard extension
 
@@ -101,6 +114,14 @@ Feed reader
 
 **Reference:** https://www.devolve.net/blog/2015/04/24/self-hosted-open-source-rss-readers/
 
+Read later
+----------
+
+`wallabag`__ : PHP
+  Self hostable application for saving web pages
+
+  __ https://wallabag.org/en
+
 Wiki
 ----
 
@@ -131,30 +152,6 @@ Wiki
   Basic authentication and registration included.
 
   __ http://realms.io/
-
-Misc.
------
-
-`bookmarks.public`__ : JS : bookmark manager
-  Template for self-hosted bookmarks using HTML & jQuery
-
-  __ https://github.com/skx/bookmarks.public
-
-`Gogs`__ / `Gitea`__ : Go : development platform
-  Painless self-hosted Git service / Community fork
-
-  __ https://gogs.io/
-  __ https://github.com/go-gitea/gitea
-
-`Nextcloud`__ : PHP : app platform
-  Safe home for all your data
-
-  __ https://nextcloud.com/
-
-`wallabag`__ : PHP : read later
-  Self hostable application for saving web pages
-
-  __ https://wallabag.org/en
 
 .. seealso::
 

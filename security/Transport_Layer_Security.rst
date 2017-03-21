@@ -1,6 +1,14 @@
 Transport Layer Security
 ========================
 
+`Let’s Encrypt`__
+  Free, automated, and open Certificate Authority
+
+  __ https://letsencrypt.org/
+
+Resources
+---------
+
 “`Security/Server Side TLS`__”
   Contains information on TLS protocols, known issues and vulnerabilities,
   configuration examples and testing tools
@@ -12,13 +20,19 @@ Transport Layer Security
 
   __ https://cipherli.st/
 
-`Let’s Encrypt`__
-  Free, automated, and open Certificate Authority
+`Weak Diffie-Hellman and the Logjam Attack`__
+  Uncovered several weaknesses in how Diffie-Hellman key exchange has been
+  deployed
 
-  __ https://letsencrypt.org/
+  __ https://weakdh.org/
+
+`Is TLS Fast Yet?`__
+  Yes, yes it is.
+
+  __ https://istlsfastyet.com/
 
 Headers
--------
+^^^^^^^
 
 `Public Key Pinning Extension for HTTP (HPKP)`__
   Allows web host operators to instruct user agents to remember ("pin") the
@@ -44,19 +58,19 @@ Headers
 Diagnose
 --------
 
-`Observatory`__ : Python : CLI/WebUI
+`Observatory`__ : Python : CLI/Web
   Project designed to help developers, system administrators, and security
   professionals configure their sites safely and securely
 
   __ https://observatory.mozilla.org/
 
-`Qualys SSL Labs SSL Server Test`__ : WebUI
+`Qualys SSL Labs SSL Server Test`__ : Web
   Performs a deep analysis of the configuration of any SSL web server on the
   public Internet
 
   __ https://www.ssllabs.com/ssltest/
 
-`SSL Decoder`__ : PHP : CLI/WebUI
+`SSL Decoder`__ : PHP : CLI/Web
   PHP script which decodes an SSL connection and/or certificate and displays
   information
 
@@ -71,13 +85,3 @@ Diagnose
   Testing TLS/SSL encryption anywhere on any port
 
   __ https://github.com/drwetter/testssl.sh
-
-Further reading
----------------
-
-- `Is TLS Fast Yet?`__ - Yes, yes it is.
-- `Weak Diffie-Hellman and the Logjam Attack`__ - Uncovered several
-  weaknesses in how Diffie-Hellman key exchange has been deployed
-
-__ https://istlsfastyet.com/
-__ https://weakdh.org/
