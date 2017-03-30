@@ -11,7 +11,8 @@ reStructuredText
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 
-These pages are written in reStructuredText. See `here`__ for a collection of
+These pages are written in `reStructuredText`__. See `here`__ for a collection of
 tools supporting this lightweight markup language.
 
+__ http://docutils.sourceforge.net/rst.html
 __ https://stackoverflow.com/questions/2746692/restructuredtext-tool-support/2747041#2747041
