@@ -3,11 +3,11 @@ reStructuredText
 
 .. epigraph::
 
-  … plaintext that uses simple and intuitive constructs to indicate the
-  structure of a document. These constructs are equally easy to read in raw and
-  processed forms.
+   … plaintext that uses simple and intuitive constructs to indicate the
+   structure of a document. These constructs are equally easy to read in raw and
+   processed forms.
 
-  — `Markup Specification`__
+   —`Markup Specification`__
 
 __ http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
 

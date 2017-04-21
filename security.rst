@@ -32,7 +32,7 @@ Safeguard
   Administration tool for packet filtering and classification
 
   - `Example by sudokode`__
-  - `Example by Simon "vodik" Gomizelj`__
+  - `Example by Simon “vodik” Gomizelj`__
 
   __ http://netfilter.org/projects/nftables/
   __ http://sprunge.us/IgHE
