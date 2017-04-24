@@ -39,11 +39,13 @@ Misc.
 
 - “`Homemade Puff Cereal`__”
 - “`Oven Baked Chicken Legs – The Art of Drummies`__”
-- `"Really good burger"`__
+- `“Really good burger”`__
+- “`To Die For Blueberry Muffins`__”
 
 __ http://www.eatgood4life.com/homemade-puff-cereal/
 __ http://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/
 __ https://imgur.com/a/LmEHP
+__ http://allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/
 
 Smoke point
 -----------

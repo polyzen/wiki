@@ -4,7 +4,7 @@ Self-host
 Host your own services
 
 App platform
---------------
+------------
 
 `Nextcloud`__ : PHP
   Safe home for all your data
