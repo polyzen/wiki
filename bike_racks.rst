@@ -7,7 +7,7 @@ __ http://www.theknifeandsaw.com/KSItemDetail.php?PC=2&II=2
 
 - `Recycled Bike Rack`__
 
-__ https://web.archive.org/web/20131011010614/http://wantcy.com/product/bike-rack/
+__ https://web.archive.org/web/20130904081808/http://wantcy.com:80/product/bike-rack/
 
 - `DIY Fixa bike shelf`__
 
@@ -15,7 +15,7 @@ __ http://www.instructables.com/id/Bike-Wall-Mount/
 
 - `IKEA hack bike rack`__
 
-__ https://web.archive.org/web/20131122014145/http://thedesignercoop.net/2012/08/diy-ikea-hack-bike-rack
+__ https://web.archive.org/web/20130806111935/http://thedesignercoop.net:80/2012/08/diy-ikea-hack-bike-rack/
 
 - `Bike hooks`__
 

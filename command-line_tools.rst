@@ -30,7 +30,7 @@ Calendar & Contacts
 `mates`__ : Rust : contacts
   Simple commandline addressbook
 
-  __ https://github.com/untitaker/mates.rs
+  __ https://github.com/pimutils/mates.rs
 
 Email
 -----

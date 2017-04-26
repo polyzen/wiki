@@ -13,7 +13,7 @@ French fries
 - “`Perfect Thin and Crispy French Fries Recipe`__”
 - “`The Burger Lab: How to Make Perfect Thin and Crisp French Fries`__”
 
-__ http://www.101cookingfortwo.com/crispy-oven-baked-french-fries/
+__ https://www.101cookingfortwo.com/crispy-oven-baked-french-fries/
 __ http://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html
 __ http://aht.seriouseats.com/archives/2010/05/the-burger-lab-how-to-make-perfect-mcdonalds-style-french-fries.html
 
@@ -32,10 +32,10 @@ __ http://mywholefoodlife.com/2013/02/01/homemade-almond-clif-bars/
 __ http://www.ciao-mama.com/homemade-clif-bars/
 __ http://www.browneyedbaker.com/homemade-clif-bars-no-bake/
 __ http://powerhungry.com/2008/06/homemade-cliff-bars-no-bake/
-__ http://www.popsugar.com/food/How-Make-Homemade-Clif-Bars-37977261
+__ https://www.popsugar.com/food/How-Make-Homemade-Clif-Bars-37977261
 
-Misc.
------
+Miscellany
+----------
 
 - “`Homemade Puff Cereal`__”
 - “`Oven Baked Chicken Legs – The Art of Drummies`__”
@@ -43,7 +43,7 @@ Misc.
 - “`To Die For Blueberry Muffins`__”
 
 __ http://www.eatgood4life.com/homemade-puff-cereal/
-__ http://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/
+__ https://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/
 __ https://imgur.com/a/LmEHP
 __ http://allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/
 

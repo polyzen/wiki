@@ -36,7 +36,7 @@ Calendar & Contacts
 `DAViCal`__ : PHP : server
   Server for calendar sharing
 
-  __ http://www.davical.org/
+  __ https://www.davical.org/
 
 `Radicale`__ : Python : server
   Simple calendar and contact server
@@ -77,7 +77,7 @@ Email
   Open source IMAP and POP3 email server for Linux/UNIX-like systems, written
   with security primarily in mind
 
-  __ http://dovecot.org/
+  __ https://dovecot.org/
 
 `OpenSMTPD`__ : C : server : send
   FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
@@ -102,7 +102,7 @@ Feed reader
 `selfoss`__ : PHP
   Multipurpose rss reader, live stream, mashup, aggregation web application
 
-  __ http://selfoss.aditu.de/
+  __ https://selfoss.aditu.de/
 
 `Stringer`__ : Ruby
   Self-hosted, anti-social RSS reader
@@ -114,7 +114,7 @@ Feed reader
 
   - `newsbeuter synchronization`__
 
-  __ https://tt-rss.org/gitlab/fox/tt-rss/wikis/home
+  __ https://tt-rss.org/fox/tt-rss/wikis/home
   __ http://newsbeuter.org/doc/newsbeuter.html#_tiny_tiny_rss_synchronization
 
 **Reference:** https://www.devolve.net/blog/2015/04/24/self-hosted-open-source-rss-readers/

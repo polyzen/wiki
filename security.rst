@@ -70,7 +70,7 @@ Safeguard
   Aggregates system logs and blocks repeat offenders using one of several
   firewall backends
 
-  __ http://www.sshguard.net
+  __ https://www.sshguard.net
 
 `Content Security Policy (CSP)`__ : HTTP header
   Mechanism by which web developers can control the resources which a particular
