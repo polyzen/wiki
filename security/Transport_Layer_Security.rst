@@ -39,7 +39,7 @@ Headers
   hosts' cryptographic identities over a period of time
 
   - “`HTTP Public-Key-Pinning Explained`__”
-  - `HPKP tutorial by Remy Van Elst`__
+  - “`HPKP tutorial by Remy Van Elst`__”
 
   __ https://tools.ietf.org/html/rfc7469.html
   __ https://timtaubert.de/blog/2014/10/http-public-key-pinning-explained/
@@ -50,7 +50,7 @@ Headers
   connections and/or for users to be able to direct their user agent(s) to
   interact with given sites only over secure connections
 
-  - `HSTS tutorial by Remy Van Elst`__
+  - “`HSTS tutorial by Remy Van Elst`__”
 
   __ https://tools.ietf.org/html/rfc6797.html
   __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html

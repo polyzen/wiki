@@ -44,19 +44,6 @@ Safeguard
 
   __ https://www.wireguard.io/
 
-`Docker`__ : Go : application container
-  Run applications securely isolated in a container, packaged with all its
-  dependencies and libraries
-
-  __ https://www.docker.com/
-
-`LXC`__ : C : system container
-  Offers an environment as close as possible to the one you'd get from a VM but
-  without the overhead that comes with running a separate kernel and simulating
-  all the hardware
-
-  __ https://linuxcontainers.org/
-
 `OpenSSH`__ : C : secure network services
   Free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
@@ -71,6 +58,19 @@ Safeguard
   firewall backends
 
   __ https://www.sshguard.net
+
+`LXC`__ : C : system container
+  Offers an environment as close as possible to the one you'd get from a VM but
+  without the overhead that comes with running a separate kernel and simulating
+  all the hardware
+
+  __ https://linuxcontainers.org/
+
+`Docker`__ : Go : application container
+  Run applications securely isolated in a container, packaged with all its
+  dependencies and libraries
+
+  __ https://www.docker.com/
 
 `Content Security Policy (CSP)`__ : HTTP header
   Mechanism by which web developers can control the resources which a particular
@@ -87,7 +87,7 @@ Further reading
 
 - `OWASP`__ - Free and open software security community
 - `Awesome AppSec`__ - Resources for learning about application security
-- `Awesome CTF`__ - - CTF frameworks, libraries, resources and softwares
+- `Awesome CTF`__ - CTF frameworks, libraries, resources and softwares
 - `Awesome Hacking`__ - Hacking tutorials, tools and resources
 - `Awesome Security`__ - Software, libraries, documents, books, resources and
   cools stuffs about security

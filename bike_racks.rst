@@ -5,23 +5,23 @@ Bike racks
 
 __ http://www.theknifeandsaw.com/KSItemDetail.php?PC=2&II=2
 
+- “`Bike Wall Mount`__”
+
+__ http://www.instructables.com/id/Bike-Wall-Mount/
+
 - `Recycled Bike Rack`__
 
 __ https://web.archive.org/web/20130904081808/http://wantcy.com:80/product/bike-rack/
 
-- `DIY Fixa bike shelf`__
-
-__ http://www.instructables.com/id/Bike-Wall-Mount/
-
-- `IKEA hack bike rack`__
+- “`DIY IKEA Hack Bike Rack`__”
 
 __ https://web.archive.org/web/20130806111935/http://thedesignercoop.net:80/2012/08/diy-ikea-hack-bike-rack/
 
-- `Bike hooks`__
+- `Bike Hooks`__
 
 __ https://www.etsy.com/listing/110073382/bike-hooks-white-vintage-skin-brass
 
-- `Custom DIY bike storage`__
+- “`Custom DIY Bike Storage`__”
 
 __ http://www.minipennyblog.com/2011/03/custom-diy-bike-storage.html
 
