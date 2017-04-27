@@ -2,6 +2,7 @@ Security
 ========
 
 .. toctree::
+   :hidden:
 
    security/Transport_Layer_Security
 
@@ -23,6 +24,9 @@ Pentest
 Safeguard
 ---------
 
+Network
+^^^^^^^
+
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
 
@@ -33,19 +37,19 @@ Safeguard
   __ http://sprunge.us/IgHE
   __ https://ptpb.pw/XKVI
 
-`WireGuard`__ : C : secure network tunnel
+`WireGuard`__ : C : secure tunnel
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art
   cryptography
 
   __ https://www.wireguard.io/
 
-`OpenVPN`__ : C : secure network tunnel
+`OpenVPN`__ : C : secure tunnel
   Full-featured open source SSL VPN solution that accommodates a wide range of
   configurations
 
   __ https://openvpn.net/
 
-`OpenSSH`__ : C : secure network services
+`OpenSSH`__ : C : secure services
   Free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
 
@@ -60,6 +64,9 @@ Safeguard
 
   __ https://www.sshguard.net
 
+Virtualization
+^^^^^^^^^^^^^^
+
 `LXC`__ : C : system container
   Offers an environment as close as possible to the one you'd get from a VM but
   without the overhead that comes with running a separate kernel and simulating
@@ -72,6 +79,11 @@ Safeguard
   dependencies and libraries
 
   __ https://www.docker.com/
+
+Web
+^^^
+
+.. seealso:: :doc:`security/Transport_Layer_Security`
 
 `Content Security Policy (CSP)`__ : HTTP header
   Mechanism by which web developers can control the resources which a particular

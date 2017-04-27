@@ -158,9 +158,12 @@ Wiki
 
   __ http://realms.io/
 
-.. seealso::
+See also
+--------
 
-   :doc:`command-line_tools`, :doc:`security`, :doc:`server_performance`
+- :doc:`command-line_tools`
+- :doc:`security`
+- :doc:`server_performance`
 
 Further reading
 ---------------

@@ -27,7 +27,7 @@ Resources
   __ https://weakdh.org/
 
 `Is TLS Fast Yet?`__
-  Yes, yes it is.
+  Yes, yes it is
 
   __ https://istlsfastyet.com/
 

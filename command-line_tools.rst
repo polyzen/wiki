@@ -58,4 +58,7 @@ Feed reader
 
   __ http://www.newsbeuter.org/
 
-.. seealso:: :doc:`self-host`
+See also
+--------
+
+- :doc:`self-host`

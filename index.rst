@@ -2,8 +2,12 @@ Welcome to this Wiki!
 =====================
 
 .. toctree::
-   :glob:
    :maxdepth: 2
    :caption: Contents:
 
-   *
+   bike_racks
+   recipes
+   command-line_tools
+   security
+   self-host
+   server_performance

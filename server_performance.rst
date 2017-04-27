@@ -43,7 +43,10 @@ Diagnose
 
   __ https://github.com/codesenberg/bombardier
 
-.. seealso:: :doc:`security`
+See also
+--------
+
+- :doc:`security`
 
 Further reading
 ---------------
