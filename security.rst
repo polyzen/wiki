@@ -39,6 +39,12 @@ Safeguard
 
   __ https://www.wireguard.io/
 
+`OpenVPN`__ : C : secure network tunnel
+  Full-featured open source SSL VPN solution that accommodates a wide range of
+  configurations
+
+  __ https://openvpn.net/
+
 `OpenSSH`__ : C : secure network services
   Free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
