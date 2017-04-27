@@ -23,11 +23,6 @@ Pentest
 Safeguard
 ---------
 
-`grsecurity`__ : C : hardened kernel
-  Set of patches for the Linux kernel with an emphasis on enhancing security
-
-  __ https://grsecurity.net
-
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
 
