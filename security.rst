@@ -54,9 +54,11 @@ Network
   login or remote file transfers
 
   - “`Secure Secure Shell`__”
+  - `Rebex SSH Check`__
 
   __ https://www.openssh.com/
   __ https://stribika.github.io/2015/01/04/secure-secure-shell.html
+  __ https://sshcheck.com/
 
 `sshguard`__ : C : brute-force protection
   Aggregates system logs and blocks repeat offenders using one of several
