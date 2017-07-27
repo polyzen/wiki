@@ -14,7 +14,7 @@ App platform
 Bookmark manager
 ----------------
 
-`bookmarks.public`__ : JS
+`bookmarks.public`__ : JavaScript
   Template for self-hosted bookmarks using HTML & jQuery
 
   __ https://github.com/skx/bookmarks.public
@@ -88,11 +88,15 @@ Email
 Feed reader
 -----------
 
-`CommaFeed`__ : Java
-  Google Reader inspired self-hosted RSS reader, based on Dropwizard and
-  AngularJS
+`Feedbin`__ : Ruby
+  RSS reader with a beautiful reading experience
 
-  __ https://www.commafeed.com/
+  __ https://feedbin.com/
+
+`FreshRSS`__ : PHP
+  Free, self-hostable aggregator
+
+  __ https://freshrss.org/
 
 `Miniflux`__ : PHP
   Minimalist RSS reader
@@ -103,11 +107,6 @@ Feed reader
   Multipurpose rss reader, live stream, mashup, aggregation web application
 
   __ https://selfoss.aditu.de/
-
-`Stringer`__ : Ruby
-  Self-hosted, anti-social RSS reader
-
-  __ https://github.com/swanson/stringer
 
 `Tiny Tiny RSS`__ : PHP
   Open source web-based news feed (RSS/Atom) reader and aggregator

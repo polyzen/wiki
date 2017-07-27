@@ -32,7 +32,7 @@ Diagnose
   __ https://github.com/wg/wrk
   __ https://github.com/giltene/wrk2
 
-`YSlow`__ : JS
+`YSlow`__ : JavaScript
   Analyzes web pages and why they're slow based on Yahoo!'s rules for high
   performance web sites
 
