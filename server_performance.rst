@@ -25,18 +25,10 @@ Cache/Load balance
 Diagnose
 --------
 
-`wrk`__ / `wrk2`__ : C
-  HTTP benchmarking tool / Constant throughput, correct latency recording
-  variant
+`wrk`__ : C
+  HTTP benchmarking tool
 
   __ https://github.com/wg/wrk
-  __ https://github.com/giltene/wrk2
-
-`YSlow`__ : JavaScript
-  Analyzes web pages and why they're slow based on Yahoo!'s rules for high
-  performance web sites
-
-  __ http://yslow.org/
 
 `bombardier`__ : Go
   HTTP(S) benchmarking tool
