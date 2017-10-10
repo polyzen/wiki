@@ -26,14 +26,21 @@ Diagnose
 --------
 
 `wrk`__ : C
-  HTTP benchmarking tool
+  Modern HTTP benchmarking tool capable of generating significant load when run
+  on a single multi-core CPU
 
   __ https://github.com/wg/wrk
 
 `bombardier`__ : Go
-  HTTP(S) benchmarking tool
+  Fast cross-platform HTTP benchmarking tool
 
   __ https://github.com/codesenberg/bombardier
+
+`WebPagetest`__ : PHP
+  Free website speed test from multiple locations around the globe using real
+  browsers (IE and Chrome) and at real consumer connection speeds
+
+  __ https://webpagetest.org/
 
 See also
 --------
