@@ -50,6 +50,12 @@ Calendar & Contacts
   __ http://sabre.io/
   __ http://sabre.io/baikal/
 
+`Xandikos`__ : Python : server
+  Lightweight yet complete CardDAV/CalDAV server that backs onto a Git
+  repository
+
+  __ https://www.xandikos.org/
+
 Development platform
 --------------------
 
