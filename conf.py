@@ -43,12 +43,13 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'README'
 
 # General information about the project.
 project = 'Wiki'
 copyright = '2017'
-author = 'Daniel M. Capella'
+author = 'See contribution graph \
+<https://github.com/polyzen/wiki/graphs/contributors>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
