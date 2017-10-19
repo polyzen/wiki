@@ -53,10 +53,10 @@ Email
 Feed reader
 -----------
 
-`newsbeuter`__ : C++
-  Open-source RSS/Atom feed reader for text terminals
+`newsboat`__ : C++
+  RSS/Atom feed reader for text terminals
 
-  __ http://www.newsbeuter.org/
+  __ https://newsboat.org/
 
 See also
 --------
