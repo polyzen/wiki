@@ -41,7 +41,7 @@ Network
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art
   cryptography
 
-  __ https://www.wireguard.io/
+  __ https://www.wireguard.com/
 
 `OpenVPN`__ : C : secure tunnel
   Full-featured open source SSL VPN solution that accommodates a wide range of

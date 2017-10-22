@@ -119,7 +119,7 @@ Feed reader
 
   - `newsbeuter synchronization`__
 
-  __ https://tt-rss.org/fox/tt-rss/wikis/home
+  __ https://tt-rss.org
   __ http://newsbeuter.org/doc/newsbeuter.html#_tiny_tiny_rss_synchronization
 
 **Reference:** https://www.devolve.net/blog/2015/04/24/self-hosted-open-source-rss-readers/

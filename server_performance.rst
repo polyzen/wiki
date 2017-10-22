@@ -20,7 +20,7 @@ Cache/Load balance
 `Varnish`__ : C : caching proxy
   Web application accelerator also known as a caching HTTP reverse proxy
 
-  __ https://www.varnish-cache.org/
+  __ https://varnish-cache.org/
 
 Diagnose
 --------
