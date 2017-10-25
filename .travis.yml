@@ -1,0 +1,17 @@
+language: python
+python: 3.6
+install:
+  - pip install Sphinx
+  - pip install sphinx_rtd_theme
+script: make $CI_TARGET
+env:
+  - CI_TARGET=dirhtml
+  - CI_TARGET=linkcheck
+matrix:
+  allow_failures:
+    - env: CI_TARGET=linkcheck
+  fast_finish: true
+notifications:
+  email:
+    on_success: change
+    on_failure: always
