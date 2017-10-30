@@ -141,6 +141,15 @@ Wiki
 
   __ https://www.dokuwiki.org/dokuwiki
 
+`MediaWiki`__ : PHP
+  Free software open source wiki package written in PHP, originally for use on
+  Wikipedia
+
+  __ https://www.mediawiki.org/wiki/MediaWiki
+
+Honorable mentions
+^^^^^^^^^^^^^^^^^^
+
 `gitit`__ : Haskell
   Wiki using HAppS, pandoc, and git
 
@@ -150,12 +159,6 @@ Wiki
   Simple, Git-powered wiki with a sweet API and local frontend
 
   __ https://github.com/gollum/gollum
-
-`MediaWiki`__ : PHP
-  Free software open source wiki package written in PHP, originally for use on
-  Wikipedia
-
-  __ https://www.mediawiki.org/wiki/MediaWiki
 
 `Realms`__ : Python
   Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger.
