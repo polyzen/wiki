@@ -30,12 +30,7 @@ Network
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
 
-  - `Example by sudokode`__
-  - `Example by Simon “vodik” Gomizelj`__
-
   __ http://netfilter.org/projects/nftables/
-  __ http://sprunge.us/IgHE
-  __ https://ptpb.pw/XKVI
 
 `WireGuard`__ : C : secure tunnel
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art
