@@ -101,14 +101,5 @@ Further reading
 ---------------
 
 - `OWASP`__ - Free and open software security community
-- `Awesome AppSec`__ - Resources for learning about application security
-- `Awesome CTF`__ - CTF frameworks, libraries, resources and softwares
-- `Awesome Hacking`__ - Hacking tutorials, tools and resources
-- `Awesome Security`__ - Software, libraries, documents, books, resources and
-  cools stuffs about security
 
 __ https://www.owasp.org/index.php/Main_Page
-__ https://github.com/paragonie/awesome-appsec
-__ https://github.com/apsdehal/awesome-ctf
-__ https://github.com/carpedm20/awesome-hacking
-__ https://github.com/sbilly/awesome-security
