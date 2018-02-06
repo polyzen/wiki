@@ -27,7 +27,7 @@ Homemade Clif Bars
 - “`Homemade Clif Bars (vegan & gluten-free)`__”
 - “`How to Make a Homemade Clif Bar`__”
 
-__ https://fitfoodiefinds.com/2015/05/homemade-chocolate-chip-peanut-crunch-clif-bars/
+__ https://fitfoodiefinds.com/homemade-chocolate-chip-peanut-crunch-clif-bars/
 __ https://mywholefoodlife.com/2013/02/01/homemade-almond-clif-bars/
 __ http://www.ciao-mama.com/homemade-clif-bars/
 __ https://www.browneyedbaker.com/homemade-clif-bars-no-bake/

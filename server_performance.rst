@@ -58,5 +58,5 @@ Further reading
   high compression ratios
 
 __ https://enable-cors.org/
-__ http://hhvm.com/
+__ https://hhvm.com/
 __ https://facebook.github.io/zstd/

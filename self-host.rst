@@ -117,10 +117,7 @@ Feed reader
 `Tiny Tiny RSS`__ : PHP
   Open source web-based news feed (RSS/Atom) reader and aggregator
 
-  - `newsbeuter synchronization`__
-
   __ https://tt-rss.org
-  __ http://newsbeuter.org/doc/newsbeuter.html#_tiny_tiny_rss_synchronization
 
 **Reference:** https://www.devolve.net/blog/2015/04/24/self-hosted-open-source-rss-readers/
 
@@ -164,7 +161,7 @@ Honorable mentions
   Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger.
   Basic authentication and registration included.
 
-  __ http://realms.io/
+  __ https://realms.io/
 
 See also
 --------

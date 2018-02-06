@@ -15,11 +15,6 @@ Resources
 
   __ https://wiki.mozilla.org/Security/Server_Side_TLS
 
-`Cipherli.st`__
-  Strong Ciphers for Apache, nginx and Lighttpd
-
-  __ https://cipherli.st/
-
 `Weak Diffie-Hellman and the Logjam Attack`__
   Uncovered several weaknesses in how Diffie-Hellman key exchange has been
   deployed
