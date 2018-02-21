@@ -104,10 +104,10 @@ Feed reader
 
   __ https://freshrss.org/
 
-`Miniflux`__ : PHP
-  Minimalist RSS reader
+`Miniflux`__ : Go
+  Minimalist and opinionated feed reader
 
-  __ https://miniflux.net/
+  __ https://miniflux.net
 
 `selfoss`__ : PHP
   Multipurpose rss reader, live stream, mashup, aggregation web application
