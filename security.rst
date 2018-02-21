@@ -30,7 +30,7 @@ Network
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
 
-  __ http://netfilter.org/projects/nftables/
+  __ https://netfilter.org/projects/nftables/
 
 `WireGuard`__ : C : secure tunnel
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art
@@ -89,7 +89,7 @@ Web
 
   - `Quick Reference Guide`__
 
-  __ http://www.w3.org/TR/CSP/
+  __ https://www.w3.org/TR/CSP/
   __ https://content-security-policy.com/
 
 Further reading

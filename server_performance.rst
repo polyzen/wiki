@@ -8,14 +8,14 @@ Cache/Load balance
   Free, fast and reliable solution offering high availability, load balancing,
   and proxying for TCP and HTTP-based applications
 
-  __ http://www.haproxy.org/
+  __ https://www.haproxy.org/
 
 `memcached`__ : C : memory cache
   Free & open source, high-performance, distributed memory object caching
   system, generic in nature, but intended for use in speeding up dynamic web
   applications by alleviating database load
 
-  __ http://www.memcached.org/
+  __ https://www.memcached.org/
 
 `Varnish`__ : C : caching proxy
   Web application accelerator also known as a caching HTTP reverse proxy

@@ -20,7 +20,7 @@ Calendar & Contacts
 `khal`__ : Python : calendar
   Standards based CLI (console) calendar program
 
-  __ http://lostpackets.de/khal/
+  __ https://lostpackets.de/khal/
 
 `khard`__ : Python : contacts
   Console carddav client
@@ -38,7 +38,7 @@ Email
 `OfflineIMAP`__ : Python : sync
   GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
 
-  __ http://www.offlineimap.org/
+  __ https://www.offlineimap.org/
 
 `Mutt`__ : C : client
   Small but powerful text-based mail client for Unix operating systems

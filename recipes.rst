@@ -13,7 +13,7 @@ French fries
 - “`Perfect Thin and Crispy French Fries Recipe`__”
 
 __ https://www.101cookingfortwo.com/crispy-oven-baked-french-fries/
-__ http://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html
+__ https://www.seriouseats.com/recipes/2010/05/perfect-french-fries-recipe.html
 
 Homemade Clif Bars
 ------------------
@@ -27,7 +27,7 @@ Homemade Clif Bars
 __ https://fitfoodiefinds.com/homemade-chocolate-chip-peanut-crunch-clif-bars/
 __ https://mywholefoodlife.com/2013/02/01/homemade-almond-clif-bars/
 __ https://www.browneyedbaker.com/homemade-clif-bars-no-bake/
-__ http://powerhungry.com/2008/06/homemade-cliff-bars-no-bake/
+__ https://powerhungry.com/2008/06/homemade-cliff-bars-no-bake/
 __ https://www.popsugar.com/food/How-Make-Homemade-Clif-Bars-37977261
 
 Miscellany
