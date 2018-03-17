@@ -8,6 +8,7 @@ Welcome to this Wiki!
    bike_racks
    recipes
    command-line_tools
+   programming
    security
    self-host
    server_performance
