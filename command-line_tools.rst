@@ -1,21 +1,16 @@
 Command-line tools
 ==================
 
-Bookmark manager
-----------------
+Bookmark managers
+-----------------
 
 `Buku`__ : Python
   Powerful bookmark management utility written in Python3 and SQLite3
 
   __ https://github.com/jarun/Buku
 
-Calendar & Contacts
--------------------
-
-`Vdirsyncer`__ : Python : sync
-  Synchronizes your calendars and addressbooks between two storages
-
-  __ https://vdirsyncer.pimutils.org/en/stable/
+Calendars & Contacts
+--------------------
 
 `khal`__ : Python : calendar
   Standards based CLI (console) calendar program
@@ -32,13 +27,18 @@ Calendar & Contacts
 
   __ https://github.com/pimutils/mates.rs
 
+`Vdirsyncer`__ : Python : sync
+  Synchronizes your calendars and addressbooks between two storages
+
+  __ https://vdirsyncer.pimutils.org/en/stable/
+
 Email
 -----
 
-`OfflineIMAP`__ : Python : sync
-  GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
+`Alot`__ : Python: client
+  Terminal-based mail user agent based on the Notmuch mail indexer
 
-  __ https://www.offlineimap.org/
+  __ https://github.com/pazz/alot
 
 `Mutt`__ : C : client
   Small but powerful text-based mail client for Unix operating systems
@@ -50,8 +50,13 @@ Email
 
   __ https://notmuchmail.org/
 
-Feed reader
------------
+`OfflineIMAP`__ : Python : sync
+  GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
+
+  __ https://www.offlineimap.org/
+
+Feed readers
+------------
 
 `newsboat`__ : C++
   RSS/Atom feed reader for text terminals

@@ -22,14 +22,8 @@ Cache/Load balance
 
   __ https://varnish-cache.org/
 
-Diagnose
---------
-
-`wrk`__ : C
-  Modern HTTP benchmarking tool capable of generating significant load when run
-  on a single multi-core CPU
-
-  __ https://github.com/wg/wrk
+Test
+----
 
 `bombardier`__ : Go
   Fast cross-platform HTTP benchmarking tool
@@ -41,6 +35,12 @@ Diagnose
   browsers (IE and Chrome) and at real consumer connection speeds
 
   __ https://webpagetest.org/
+
+`wrk`__ : C
+  Modern HTTP benchmarking tool capable of generating significant load when run
+  on a single multi-core CPU
+
+  __ https://github.com/wg/wrk
 
 See also
 --------

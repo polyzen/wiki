@@ -1,13 +1,18 @@
 Transport Layer Security
 ========================
 
+Resources
+---------
+
+`Is TLS Fast Yet?`__
+  Yes, yes it is
+
+  __ https://istlsfastyet.com/
+
 `Let’s Encrypt`__
   Free, automated, and open Certificate Authority
 
   __ https://letsencrypt.org/
-
-Resources
----------
 
 “`Security/Server Side TLS`__”
   Contains information on TLS protocols, known issues and vulnerabilities,
@@ -21,13 +26,18 @@ Resources
 
   __ https://weakdh.org/
 
-`Is TLS Fast Yet?`__
-  Yes, yes it is
-
-  __ https://istlsfastyet.com/
-
 Headers
 ^^^^^^^
+
+`HTTP Strict Transport Security (HSTS)`__
+  Mechanism enabling web sites to declare themselves accessible only via secure
+  connections and/or for users to be able to direct their user agent(s) to
+  interact with given sites only over secure connections
+
+  - “`HSTS tutorial by Remy Van Elst`__”
+
+  __ https://tools.ietf.org/html/rfc6797.html
+  __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html
 
 `Public Key Pinning Extension for HTTP (HPKP)`__
   Allows web host operators to instruct user agents to remember ("pin") the
@@ -40,20 +50,10 @@ Headers
   __ https://timtaubert.de/blog/2014/10/http-public-key-pinning-explained/
   __ https://raymii.org/s/articles/HTTP_Public_Key_Pinning_Extension_HPKP.html
 
-`HTTP Strict Transport Security (HSTS)`__
-  Mechanism enabling web sites to declare themselves accessible only via secure
-  connections and/or for users to be able to direct their user agent(s) to
-  interact with given sites only over secure connections
+Test
+----
 
-  - “`HSTS tutorial by Remy Van Elst`__”
-
-  __ https://tools.ietf.org/html/rfc6797.html
-  __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html
-
-Diagnose
---------
-
-`Observatory`__ : Python : CLI/Web
+`Observatory`__ : Python : CLI/Library/Web
   Project designed to help developers, system administrators, and security
   professionals configure their sites safely and securely
 
@@ -65,13 +65,7 @@ Diagnose
 
   __ https://www.ssllabs.com/ssltest/
 
-`SSL Decoder`__ : PHP : CLI/Web
-  PHP script which decodes an SSL connection and/or certificate and displays
-  information
-
-  __ https://ssldecoder.org/
-
-`SSLyze`__ : Python : CLI
+`SSLyze`__ : Python : CLI/Library
   Fast and powerful SSL/TLS server scanning library
 
   __ https://github.com/nabla-c0d3/sslyze

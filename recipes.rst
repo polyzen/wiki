@@ -41,7 +41,7 @@ Miscellany
 __ http://www.eatgood4life.com/homemade-puff-cereal/
 __ https://www.101cookingfortwo.com/the-art-of-drummies-oven-baked-chicken/
 __ https://imgur.com/a/LmEHP
-__ http://allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/
+__ https://allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/
 
 Smoke point
 -----------

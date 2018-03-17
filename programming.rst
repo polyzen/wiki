@@ -14,8 +14,37 @@ Events
 
   __ https://github.com/hellerve/programming-talks
 
-Free resources
---------------
+Open source education
+---------------------
+
+`Coding Interview University`__
+  Complete computer science study plan to become a software engineer
+
+  __ https://github.com/jwasham/coding-interview-university
+
+`freeCodeCamp`__
+  Community that helps you learn to code, then get experience by contributing
+  to open source projects used by nonprofits
+
+  __ https://www.freecodecamp.org/
+
+`Low-Level Programming University`__
+  How to be low-level programmer
+
+  __ https://github.com/gurugio/lowlevelprogramming-university
+
+`Open Source Society University`__
+  Path to a self-taught education in Computer Science!
+
+  __ https://github.com/ossu/computer-science
+
+`The System Design Primer`__
+  Learn how to design large-scale systems. Prep for the system design interview
+
+  __ https://github.com/donnemartin/system-design-primer
+
+Resources
+---------
 
 `free-programming-books`__
   List of Free Learning Resources
@@ -60,31 +89,3 @@ Materials
   Collective list of public JSON APIs for use in web development
 
   __ https://github.com/toddmotto/public-apis
-
-Open source education
----------------------
-
-`Coding Interview University`__
-  Complete computer science study plan to become a software engineer
-
-  __ https://github.com/jwasham/coding-interview-university
-
-`freeCodeCamp`__
-  Learn to code for free
-
-  __ https://www.freecodecamp.org/
-
-`Low-Level Programming University`__
-  How to be low-level programmer
-
-  __ https://github.com/gurugio/lowlevelprogramming-university
-
-`Open Source Society University`__
-  Path to a self-taught education in Computer Science!
-
-  __ https://github.com/ossu/computer-science
-
-`The System Design Primer`__
-  Learn how to design large-scale systems. Prep for the system design interview
-
-  __ https://github.com/donnemartin/system-design-primer
