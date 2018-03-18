@@ -14,8 +14,8 @@ Events
 
   __ https://github.com/hellerve/programming-talks
 
-Open source education
----------------------
+Open education
+--------------
 
 `Coding Interview University`__
   Complete computer science study plan to become a software engineer
