@@ -56,11 +56,6 @@ Resources
 
   __ http://hyperpolyglot.org/
 
-“`Programming paradigm`__”
-  Way to classify programming languages based on their features
-
-  __ https://en.wikipedia.org/wiki/Programming_paradigm
-
 Front-end
 ^^^^^^^^^
 
