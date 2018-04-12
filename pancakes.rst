@@ -48,13 +48,22 @@ Steps
 -----
 
 #. Mix dry/wet ingredients (leave out oil and fruit) in separate bowls
+
 #. Mix the wet into the dry
+
 #. Mix in coconut/olive oil
+
 #. Stir in fruit
+
 #. Preheat pan to medium heat
+
 #. Heat butter/oil on pan
+
 #. Add batter (large spoon preferred)
+
 #. Flip once the edge of the pancake/s starts to brown and the batter starts to
    bubble
+
 #. Remove pancake/s once the other side is cooked
+
 #. Let pancake/s set for a couple minutes
