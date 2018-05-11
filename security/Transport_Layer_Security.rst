@@ -39,17 +39,6 @@ Headers
   __ https://tools.ietf.org/html/rfc6797.html
   __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html
 
-`Public Key Pinning Extension for HTTP (HPKP)`__
-  Allows web host operators to instruct user agents to remember ("pin") the
-  hosts' cryptographic identities over a period of time
-
-  - “`HTTP Public-Key-Pinning Explained`__”
-  - “`HPKP tutorial by Remy Van Elst`__”
-
-  __ https://tools.ietf.org/html/rfc7469.html
-  __ https://timtaubert.de/blog/2014/10/http-public-key-pinning-explained/
-  __ https://raymii.org/s/articles/HTTP_Public_Key_Pinning_Extension_HPKP.html
-
 Test
 ----
 
