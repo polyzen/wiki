@@ -1,6 +1,28 @@
 Transport Layer Security
 ========================
 
+Headers
+-------
+
+`HTTP Strict Transport Security (HSTS)`__
+  Mechanism enabling web sites to declare themselves accessible only via secure
+  connections and/or for users to be able to direct their user agent(s) to
+  interact with given sites only over secure connections
+
+  - “`HSTS tutorial by Remy Van Elst`__”
+
+  __ https://tools.ietf.org/html/rfc6797
+  __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html
+
+`Online Certificate Status Protocol (OCSP)`__
+  Protocol useful in determining the current status of a digital certificate
+  without requiring [Certificate Revocation Lists (CRLs)]
+
+  - “`The case for “OCSP Must-Staple”`__”
+
+  __ https://tools.ietf.org/html/rfc2560
+  __ https://www.grc.com/revocation/ocsp-must-staple.htm
+
 Resources
 ---------
 
@@ -25,19 +47,6 @@ Resources
   deployed
 
   __ https://weakdh.org/
-
-Headers
-^^^^^^^
-
-`HTTP Strict Transport Security (HSTS)`__
-  Mechanism enabling web sites to declare themselves accessible only via secure
-  connections and/or for users to be able to direct their user agent(s) to
-  interact with given sites only over secure connections
-
-  - “`HSTS tutorial by Remy Van Elst`__”
-
-  __ https://tools.ietf.org/html/rfc6797.html
-  __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html
 
 Test
 ----
