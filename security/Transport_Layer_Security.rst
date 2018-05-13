@@ -4,23 +4,21 @@ Transport Layer Security
 Headers
 -------
 
-`HTTP Strict Transport Security (HSTS)`__
+:rfc:`HTTP Strict Transport Security (HSTS) <6797>`
   Mechanism enabling web sites to declare themselves accessible only via secure
   connections and/or for users to be able to direct their user agent(s) to
   interact with given sites only over secure connections
 
   - “`HSTS tutorial by Remy Van Elst`__”
 
-  __ https://tools.ietf.org/html/rfc6797
   __ https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html
 
-`Online Certificate Status Protocol (OCSP)`__
+:rfc:`Online Certificate Status Protocol (OCSP) <2560>`
   Protocol useful in determining the current status of a digital certificate
   without requiring [Certificate Revocation Lists (CRLs)]
 
   - “`The case for “OCSP Must-Staple”`__”
 
-  __ https://tools.ietf.org/html/rfc2560
   __ https://www.grc.com/revocation/ocsp-must-staple.htm
 
 Resources
