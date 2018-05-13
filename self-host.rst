@@ -39,7 +39,7 @@ Servers
 `Radicale`__ : Python
   Simple calendar and contact server
 
-  __ http://radicale.org/
+  __ https://radicale.org/
 
 `sabre/dav`__ / `Baïkal`__ : PHP
   Most popular WebDAV framework for PHP. Use it to create WebDAV, CalDAV and
