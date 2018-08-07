@@ -68,7 +68,7 @@ Sandboxes
 """""""""
 
 `bubblewrap`__ : C
-  Unprivileged helper for container setup. You are unlikely to use it directly
+  Privileged helper for container setup. You are unlikely to use it directly
   from the commandline, although that is possible
 
   __ https://github.com/projectatomic/bubblewrap
