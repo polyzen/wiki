@@ -31,5 +31,5 @@ Wooden shelves
 
 - “`DIY IKEA Hack Bike Rack`__”
 
-__ http://www.instructables.com/id/Bike-Wall-Mount/
+__ https://www.instructables.com/id/Bike-Wall-Mount/
 __ https://web.archive.org/web/20130806111935/http://thedesignercoop.net:80/2012/08/diy-ikea-hack-bike-rack/

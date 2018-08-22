@@ -117,7 +117,7 @@ Feed readers
 `Miniflux`__ : Go
   Minimalist and opinionated feed reader
 
-  __ https://miniflux.net
+  __ https://miniflux.app
 
 `selfoss`__ : PHP
   Multipurpose RSS reader, live stream, mashup, aggregation web application
