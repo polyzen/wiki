@@ -52,11 +52,8 @@ Further reading
 
 - `Cross-Origin Resource Sharing (CORS)`__ - Mechanism to enable client-side
   cross-origin requests
-- `HHVM`__ - Open-source virtual machine designed for executing programs written
-  in Hack and PHP
 - `Zstandard (zstd)`__ - Real-time compression algorithm, providing
   high compression ratios
 
 __ https://enable-cors.org/
-__ https://hhvm.com/
 __ https://facebook.github.io/zstd/
