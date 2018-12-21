@@ -22,7 +22,7 @@ Hooks
 - `LeHigh Crawford Flip Up Storage Rack`__
 
 __ http://www.minipennyblog.com/2011/03/custom-diy-bike-storage.html
-__ https://www.amazon.com/gp/product/B0000DH4NL/
+__ https://www.amazon.com/LeHigh-Crawford-Flip-Storage-FSR13/dp/B0000DH4NL
 
 Wooden shelves
 ^^^^^^^^^^^^^^
