@@ -25,12 +25,15 @@ Cache/Load balance
 Test
 ----
 
+Benchmark
+^^^^^^^^^
+
 `bombardier`__ : Go
   Fast cross-platform HTTP benchmarking tool
 
   __ https://github.com/codesenberg/bombardier
 
-`WebPagetest`__ : PHP
+`WebPagetest`__ : C++/Node.js/PHP
   Free website speed test from multiple locations around the globe using real
   browsers (IE and Chrome) and at real consumer connection speeds
 
@@ -41,6 +44,15 @@ Test
   on a single multi-core CPU
 
   __ https://github.com/wg/wrk
+
+Load test
+^^^^^^^^^
+
+`Vegeta`__ : Go
+  Versatile HTTP load testing tool built out of a need to drill HTTP services
+  with a constant request rate
+
+  __ https://github.com/tsenart/vegeta
 
 See also
 --------
