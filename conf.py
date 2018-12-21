@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.githubpages']
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -49,7 +49,7 @@ master_doc = 'index'
 project = 'Wiki'
 copyright = '2018'
 author = 'See contribution graph \
-<https://github.com/polyzen/wiki/graphs/contributors>'
+<https://gitlab.com/polyzen/wiki/graphs/master>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -95,10 +95,10 @@ html_theme = 'sphinx_rtd_theme'
 html_title = project
 
 html_context = {
-    'display_github': True,
-    'github_user': 'polyzen',
-    'github_repo': 'wiki',
-    'github_version': 'master',
+    'display_gitlab': True,
+    'gitlab_user': 'polyzen',
+    'gitlab_repo': 'wiki',
+    'gitlab_version': 'master',
     'conf_py_path': '/',
 }
 
