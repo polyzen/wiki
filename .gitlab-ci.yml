@@ -1,12 +1,19 @@
 image: alpine
 
+test:
+  script:
+    - apk --no-cache add make python3-dev
+    - pip3 install sphinx_rtd_theme
+    - make dirhtml
+  except:
+    - master
+
 pages:
   script:
-    - apk --no-cache add python3-dev
+    - apk --no-cache add make python3-dev
     - pip3 install sphinx_rtd_theme
-    - apk --no-cache add make
     - make dirhtml
-    - mv _build/dirhtml/ public/
+    - mv _build/dirhtml public
   artifacts:
     paths:
       - public
