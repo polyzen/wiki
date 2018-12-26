@@ -1,7 +1,5 @@
-image: alpine
+image: registry.gitlab.com/paddy-hack/sphinx/alpine:1.8.2
 
 test:
-  script:
-    - apk --no-cache add make python3-dev
-    - pip3 install sphinx_rtd_theme
-    - make dirhtml
+  script: make -e SPHINXOPTS='--color' linkcheck
+  allow_failure: true
