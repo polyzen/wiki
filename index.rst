@@ -5,7 +5,6 @@ Welcome to this Wiki!
    :maxdepth: 2
    :caption: General:
 
-   bike_racks
    pancakes
 
 .. toctree::
