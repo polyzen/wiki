@@ -3,13 +3,6 @@ Welcome to this Wiki!
 
 .. toctree::
    :maxdepth: 2
-   :caption: General:
-
-   pancakes
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Software:
 
    command-line_tools
    programming
