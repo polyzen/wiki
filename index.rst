@@ -2,10 +2,11 @@ Welcome to this Wiki!
 =====================
 
 .. toctree::
+   :includehidden:
    :maxdepth: 2
 
-   command-line_tools
+   console_applications
    programming
    security
-   self-host
+   self-hosted_applications
    server_performance

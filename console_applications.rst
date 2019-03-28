@@ -1,5 +1,5 @@
-Command-line tools
-==================
+Console applications
+====================
 
 Bookmark managers
 -----------------
@@ -21,11 +21,6 @@ Calendars & Contacts
   Console carddav client
 
   __ https://github.com/scheibler/khard
-
-`mates`__ : Rust : contacts
-  Simple commandline addressbook
-
-  __ https://github.com/pimutils/mates.rs
 
 `Vdirsyncer`__ : Python : sync
   Synchronizes your calendars and addressbooks between two storages
@@ -66,4 +61,4 @@ Feed readers
 See also
 --------
 
-- :doc:`self-host`
+- :doc:`self-hosted_applications`

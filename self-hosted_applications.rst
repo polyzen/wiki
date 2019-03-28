@@ -1,15 +1,8 @@
-Self-host
-=========
-
-Host your own services
+Self-hosted applications
+========================
 
 Bookmark managers
 -----------------
-
-`bookmarks.public`__ : JavaScript
-  Template for self-hosted bookmarks using HTML & jQuery
-
-  __ https://github.com/skx/bookmarks.public
 
 `Shaarli`__ : PHP
   Personal, minimalist, super-fast, database free, bookmarking service
@@ -18,15 +11,6 @@ Bookmark managers
 
 Calendars & Contacts
 --------------------
-
-Clients
-^^^^^^^
-
-`AgenDAV`__ : PHP
-  Open source multilanguage CalDAV web client which features a rich AJAX
-  interface with shared calendars support
-
-  __ http://agendav.org/
 
 Servers
 ^^^^^^^
@@ -41,12 +25,11 @@ Servers
 
   __ https://radicale.org/
 
-`sabre/dav`__ / `Baïkal`__ : PHP
+`sabre/dav`__ : PHP
   Most popular WebDAV framework for PHP. Use it to create WebDAV, CalDAV and
-  CardDAV servers / Includes an administrative interface for easy management
+  CardDAV servers
 
   __ http://sabre.io/
-  __ http://sabre.io/baikal/
 
 `Xandikos`__ : Python
   Lightweight yet complete CardDAV/CalDAV server that backs onto a Git
@@ -129,7 +112,7 @@ Feed readers
 
   __ https://tt-rss.org
 
-**Reference:** https://www.devolve.net/blog/2015/04/24/self-hosted-open-source-rss-readers/
+**Reference:** https://www.devolve.net/self-hosted-open-source-rss-readers/
 
 Read later
 ----------
@@ -154,35 +137,18 @@ Wikis
 
   __ https://www.mediawiki.org/wiki/MediaWiki
 
-Honorable mentions
-^^^^^^^^^^^^^^^^^^
+.. note::
+   Alternatively, use a static site generator paired with a development
+   platform and continuous deployment. This wiki uses `Sphinx`__, `GitLab`__,
+   and `Netlify`__, respectively, to cover those three bases.
 
-`gitit`__ : Haskell
-  Wiki using HAppS, pandoc, and Git
-
-  __ https://github.com/jgm/gitit
-
-`Gollum`__ : Ruby
-  Simple, Git-powered wiki with a sweet API and local frontend
-
-  __ https://github.com/gollum/gollum
-
-`Realms`__ : Python
-  Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger.
-  Basic authentication and registration included
-
-  __ https://realms.io/
+   __ http://www.sphinx-doc.org
+   __ https://gitlab.com
+   __ https://www.netlify.com
 
 See also
 --------
 
-- :doc:`command-line_tools`
+- :doc:`console_applications`
 - :doc:`security`
 - :doc:`server_performance`
-
-Further reading
----------------
-
-- `Search Engine Optimization (SEO)`__ - Tips and techniques
-
-__ https://marcobiedermann.github.io/search-engine-optimization/

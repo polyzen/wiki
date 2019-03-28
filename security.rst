@@ -19,7 +19,7 @@ Pentest
   Debian-based Linux distribution aimed at advanced Penetration Testing and
   Security Auditing
 
-  __ https://www.kali.org/
+  __ https://www.kali.org
 
 Safeguard
 ---------
@@ -41,7 +41,7 @@ Network
 
   __ https://www.openssh.com/
   __ https://stribika.github.io/2015/01/04/secure-secure-shell.html
-  __ https://sshcheck.com/
+  __ https://sshcheck.com
 
 `OpenVPN`__ : C : secure tunnel
   Full-featured open source SSL VPN solution that accommodates a wide range of
