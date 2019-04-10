@@ -52,6 +52,11 @@ Development platforms
   __ https://gogs.io
   __ https://gitea.io
 
+`sourcehut`__ : Python
+  Open source software suite for managing your software development projects
+
+  __ https://sourcehut.org
+
 Email
 -----
 
