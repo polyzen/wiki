@@ -33,7 +33,7 @@ Benchmark
 
   __ https://github.com/codesenberg/bombardier
 
-`WebPagetest`__ : C++/Node.js/PHP
+`WebPagetest`__ : PHP/Python
   Free website speed test from multiple locations around the globe using real
   browsers (IE and Chrome) and at real consumer connection speeds
 

@@ -40,7 +40,7 @@ Servers
 Development platforms
 ---------------------
 
-`GitLab Community Edition`__
+`GitLab Community Edition`__ : Node.js/Ruby
   Open source end-to-end software development platform with built-in version
   control, issue tracking, code review, CI/CD, and more
 
@@ -49,8 +49,8 @@ Development platforms
 `Gogs`__ / `Gitea`__ : Go
   Painless self-hosted Git service / Community fork
 
-  __ https://gogs.io/
-  __ https://github.com/go-gitea/gitea
+  __ https://gogs.io
+  __ https://gitea.io
 
 Email
 -----
