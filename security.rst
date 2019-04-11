@@ -43,12 +43,6 @@ Network
   __ https://stribika.github.io/2015/01/04/secure-secure-shell.html
   __ https://sshcheck.com
 
-`OpenVPN`__ : C : secure tunnel
-  Full-featured open source SSL VPN solution that accommodates a wide range of
-  configurations
-
-  __ https://openvpn.net/
-
 `sshguard`__ : C : brute-force protection
   Aggregates system logs and blocks repeat offenders using one of several
   firewall backends
