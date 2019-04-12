@@ -48,6 +48,11 @@ Benchmark
 Load test
 ^^^^^^^^^
 
+`drill`__ : Rust
+  HTTP load testing application written in Rust inspired by Ansible syntax
+
+  __ https://github.com/fcsonline/drill
+
 `Vegeta`__ : Go
   Versatile HTTP load testing tool built out of a need to drill HTTP services
   with a constant request rate
