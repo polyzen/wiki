@@ -1,4 +1,4 @@
-image: registry.gitlab.com/paddy-hack/sphinx/alpine:2.0.0
+image: registry.gitlab.com/paddy-hack/sphinx
 
 test:
   script: make -e SPHINXOPTS='--color' linkcheck
