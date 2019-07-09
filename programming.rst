@@ -83,4 +83,4 @@ Materials
 `Public APIs`__
   Collective list of public JSON APIs for use in web development
 
-  __ https://github.com/toddmotto/public-apis
+  __ https://github.com/public-apis/public-apis

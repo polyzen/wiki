@@ -81,7 +81,7 @@ Servers
   Open source IMAP and POP3 email server for Linux/UNIX-like systems, written
   with security primarily in mind
 
-  __ https://dovecot.org/
+  __ https://www.dovecot.org/
 
 `OpenSMTPD`__ : C : send
   FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
