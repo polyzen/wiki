@@ -37,11 +37,9 @@ Network
   login or remote file transfers
 
   - “`Secure Secure Shell`__”
-  - `Rebex SSH Check`__
 
   __ https://www.openssh.com/
   __ https://stribika.github.io/2015/01/04/secure-secure-shell.html
-  __ https://sshcheck.com
 
 `sshguard`__ : C : brute-force protection
   Aggregates system logs and blocks repeat offenders using one of several
@@ -65,7 +63,7 @@ Sandboxes
   Privileged helper for container setup. You are unlikely to use it directly
   from the commandline, although that is possible
 
-  __ https://github.com/projectatomic/bubblewrap
+  __ https://github.com/containers/bubblewrap
 
 `Firejail`__ : C
   SUID sandbox program that reduces the risk of security breaches by restricting
