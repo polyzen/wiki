@@ -40,11 +40,11 @@ Servers
 Development platforms
 ---------------------
 
-`GitLab Community Edition`__ : Node.js/Ruby
+`GitLab FOSS`__ : Node.js/Ruby
   Open source end-to-end software development platform with built-in version
   control, issue tracking, code review, CI/CD, and more
 
-  __ https://gitlab.com/gitlab-org/gitlab-ce/
+  __ https://gitlab.com/gitlab-org/gitlab-foss
 
 `Gogs`__ / `Gitea`__ : Go
   Painless self-hosted Git service / Community fork
