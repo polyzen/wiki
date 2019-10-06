@@ -6,26 +6,8 @@ Security
 
    security/Transport_Layer_Security
 
-Pentest
--------
-
-`Damn Vulnerable Web Application (DVWA)`__ : PHP/MySQL
-  Practice some of the most common web vulnerability, with various difficultly
-  levels, with a simple straightforward interface
-
-  __ http://www.dvwa.co.uk/
-
-`Kali Linux`__ : OS
-  Debian-based Linux distribution aimed at advanced Penetration Testing and
-  Security Auditing
-
-  __ https://www.kali.org
-
-Safeguard
----------
-
 Network
-^^^^^^^
+-------
 
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
@@ -54,10 +36,10 @@ Network
   __ https://www.wireguard.com/
 
 Virtualization
-^^^^^^^^^^^^^^
+--------------
 
 Sandboxes
-"""""""""
+^^^^^^^^^
 
 `bubblewrap`__ : C
   Privileged helper for container setup. You are unlikely to use it directly
@@ -73,7 +55,7 @@ Sandboxes
   __ https://firejail.wordpress.com/
 
 Containers
-""""""""""
+^^^^^^^^^^
 
 `Docker`__ : Go : application container
   Run applications securely isolated in a container, packaged with all its
@@ -89,7 +71,7 @@ Containers
   __ https://linuxcontainers.org/
 
 Web
-^^^
+---
 
 .. seealso:: :doc:`security/Transport_Layer_Security`
 
