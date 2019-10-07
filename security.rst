@@ -63,7 +63,10 @@ Web
 
 .. seealso:: :doc:`security/Transport_Layer_Security`
 
-`Content Security Policy (CSP)`__ : HTTP header
+HTTP headers
+^^^^^^^^^^^^
+
+`Content Security Policy (CSP)`__
   Mechanism by which web developers can control the resources which a particular
   page can fetch or execute, as well as a number of security-relevant policy
   decisions
@@ -73,7 +76,7 @@ Web
   __ https://www.w3.org/TR/CSP/
   __ https://content-security-policy.com/
 
-`X-Content-Type-Options`__ : HTTP header
+`X-Content-Type-Options`__
   Require checking of a response’s `Content-Type` header against the
   destination of a request
 

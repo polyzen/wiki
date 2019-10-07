@@ -1,8 +1,8 @@
 Transport Layer Security
 ========================
 
-Headers
--------
+HTTP headers
+------------
 
 :rfc:`HTTP Strict Transport Security (HSTS) <6797>`
   Mechanism enabling web sites to declare themselves accessible only via secure
