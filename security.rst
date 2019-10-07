@@ -73,6 +73,12 @@ Web
   __ https://www.w3.org/TR/CSP/
   __ https://content-security-policy.com/
 
+`X-Content-Type-Options`__ : HTTP header
+  Require checking of a response’s `Content-Type` header against the
+  destination of a request
+
+  __ https://fetch.spec.whatwg.org/#x-content-type-options-header
+
 Further reading
 ---------------
 
