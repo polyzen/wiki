@@ -38,24 +38,12 @@ Network
 Virtualization
 --------------
 
-Sandboxes
-^^^^^^^^^
-
-`bubblewrap`__ : C
-  Privileged helper for container setup. You are unlikely to use it directly
-  from the commandline, although that is possible
-
-  __ https://github.com/containers/bubblewrap
-
-`Firejail`__ : C
+`Firejail`__ : C : sandbox
   SUID sandbox program that reduces the risk of security breaches by restricting
   the running environment of untrusted applications using Linux namespaces,
   seccomp-bpf and Linux capabilities
 
   __ https://firejail.wordpress.com/
-
-Containers
-^^^^^^^^^^
 
 `Docker`__ : Go : application container
   Run applications securely isolated in a container, packaged with all its
