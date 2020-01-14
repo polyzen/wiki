@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Wiki'
-copyright = '2019'
+copyright = '2020'
 author = 'See contribution graph \
 <https://gitlab.com/polyzen/wiki/graphs/master>'
 
