@@ -1,5 +1,28 @@
-image: registry.gitlab.com/paddy-hack/sphinx
-
-test:
+linkcheck:
+  image: registry.gitlab.com/paddy-hack/sphinx
   script: make -e SPHINXOPTS='--color' linkcheck
   allow_failure: true
+
+build:
+  image: registry.gitlab.com/paddy-hack/sphinx/alpine:1.8.5
+  script:
+    - pip3 install sphinx_rtd_theme
+    - make -e SPHINXOPTS='--color' dirhtml
+  after_script:
+    - mv _build/dirhtml public
+  artifacts:
+    paths:
+      - public
+
+pages:
+  stage: deploy
+  variables:
+    GIT_STRATEGY: none
+  image: alpine
+  script:
+    - find public -type f -exec gzip -k {} +
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
