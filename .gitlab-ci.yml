@@ -1,7 +1,6 @@
 linkcheck:
   image: registry.gitlab.com/paddy-hack/sphinx
   script: make -e SPHINXOPTS='--color' linkcheck
-  allow_failure: true
 
 build:
   image: registry.gitlab.com/paddy-hack/sphinx/alpine:1.8.5
