@@ -87,4 +87,4 @@ Further reading
 
 - `OWASP`__ - Free and open software security community
 
-__ https://www.owasp.org/index.php/Main_Page
+__ https://owasp.org
