@@ -30,6 +30,11 @@ Calendars & Contacts
 Email
 -----
 
+`aerc`__ : Go : client
+  Email client for your terminal
+
+  __ https://git.sr.ht/~sircmpwn/aerc
+
 `Alot`__ : Python : client
   Terminal-based mail user agent based on the Notmuch mail indexer
 
