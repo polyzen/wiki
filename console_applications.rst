@@ -53,7 +53,7 @@ Email
 Feed readers
 ------------
 
-`newsboat`__ : C++
+`newsboat`__ : C++/Rust
   RSS/Atom feed reader for text terminals
 
   __ https://newsboat.org/
