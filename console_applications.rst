@@ -30,7 +30,7 @@ Calendars & Contacts
 Email
 -----
 
-`Alot`__ : Python: client
+`Alot`__ : Python : client
   Terminal-based mail user agent based on the Notmuch mail indexer
 
   __ https://github.com/pazz/alot
@@ -45,10 +45,10 @@ Email
 
   __ https://notmuchmail.org/
 
-`OfflineIMAP`__ : Python : sync
-  GPLv2 software to dispose your mailbox(es) as a local Maildir(s)
+`mbsync`__ : C : sync
+ IMAP and MailDir mailbox synchronizer
 
-  __ https://www.offlineimap.org/
+  __ http://isync.sourceforge.net/
 
 Feed readers
 ------------
