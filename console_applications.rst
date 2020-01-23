@@ -30,30 +30,33 @@ Calendars & Contacts
 Email
 -----
 
-`aerc`__ : Go : client
-  Email client for your terminal
+`mbsync`__ : C : sync
+ IMAP and MailDir mailbox synchronizer
 
-  __ https://git.sr.ht/~sircmpwn/aerc
-
-`Alot`__ : Python : client
-  Terminal-based mail user agent based on the Notmuch mail indexer
-
-  __ https://github.com/pazz/alot
-
-`Mutt`__ : C : client
-  Small but powerful text-based mail client for Unix operating systems
-
-  __ http://www.mutt.org/
+  __ http://isync.sourceforge.net/
 
 `Notmuch`__ : C/C++ : index
   Thread-based email index, search, and tagging
 
   __ https://notmuchmail.org/
 
-`mbsync`__ : C : sync
- IMAP and MailDir mailbox synchronizer
+Clients
+^^^^^^^
 
-  __ http://isync.sourceforge.net/
+`aerc`__ : Go
+  Email client for your terminal
+
+  __ https://git.sr.ht/~sircmpwn/aerc
+
+`Alot`__ : Python
+  Terminal-based mail user agent based on the Notmuch mail indexer
+
+  __ https://github.com/pazz/alot
+
+`Mutt`__ : C
+  Small but powerful text-based mail client for Unix operating systems
+
+  __ http://www.mutt.org/
 
 Feed readers
 ------------

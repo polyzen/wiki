@@ -12,9 +12,6 @@ Bookmark managers
 Calendars & Contacts
 --------------------
 
-Servers
-^^^^^^^
-
 `DAViCal`__ : PHP
   Server for calendar sharing
 
