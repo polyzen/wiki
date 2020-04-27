@@ -54,7 +54,7 @@ Resources
 `Hyperpolyglot`__
   Commonly used features in a side-by-side format
 
-  __ http://hyperpolyglot.org/
+  __ https://hyperpolyglot.org/
 
 Front-end
 ^^^^^^^^^

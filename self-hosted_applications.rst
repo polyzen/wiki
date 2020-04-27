@@ -26,7 +26,7 @@ Calendars & Contacts
   Most popular WebDAV framework for PHP. Use it to create WebDAV, CalDAV and
   CardDAV servers
 
-  __ http://sabre.io/
+  __ https://sabre.io/
 
 `Xandikos`__ : Python
   Lightweight yet complete CardDAV/CalDAV server that backs onto a Git
@@ -144,7 +144,7 @@ Wikis
    platform and continuous deployment. This wiki uses `Sphinx`__, `GitLab`__,
    and `Netlify`__, respectively, to cover those three bases.
 
-   __ http://www.sphinx-doc.org
+   __ https://www.sphinx-doc.org
    __ https://gitlab.com
    __ https://www.netlify.com
 
