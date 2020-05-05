@@ -31,7 +31,7 @@ Email
 -----
 
 `mbsync`__ : C : sync
- IMAP and MailDir mailbox synchronizer
+  IMAP and MailDir mailbox synchronizer
 
   __ http://isync.sourceforge.net/
 
