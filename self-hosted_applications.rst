@@ -133,6 +133,16 @@ Wikis
 
   __ https://www.dokuwiki.org/dokuwiki
 
+`gitit`__ : Haskell
+  Wiki using HAppS, pandoc, and Git
+
+  __ https://github.com/jgm/gitit
+
+`Gollum`__ : Ruby
+  Simple, Git-powered wiki with a sweet API and local frontend
+
+  __ https://github.com/gollum/gollum
+
 `MediaWiki`__ : PHP
   Free software open source wiki package written in PHP, originally for use on
   Wikipedia
