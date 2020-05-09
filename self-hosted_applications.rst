@@ -149,6 +149,11 @@ Wikis
 
   __ https://www.mediawiki.org/wiki/MediaWiki
 
+`Wiki.js`__ : Node.js
+  Modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+
+  __ https://wiki.js.org/
+
 .. note::
    Alternatively, use a static site generator paired with a development
    platform and continuous deployment. This wiki uses `Sphinx`__, `GitLab`__,
