@@ -9,6 +9,12 @@ Security
 Network
 -------
 
+`Fail2ban`__ : Python : brute-force protection
+  Scans log files and bans IPs that show the malicious signs -- too many
+  password failures, seeking for exploits, etc
+
+  __ https://www.fail2ban.org
+
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
 
@@ -22,12 +28,6 @@ Network
 
   __ https://www.openssh.com/
   __ https://stribika.github.io/2015/01/04/secure-secure-shell.html
-
-`sshguard`__ : C : brute-force protection
-  Aggregates system logs and blocks repeat offenders using one of several
-  firewall backends
-
-  __ https://www.sshguard.net
 
 `WireGuard`__ : C : secure tunnel
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art
