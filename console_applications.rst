@@ -1,6 +1,25 @@
 Console applications
 ====================
 
+Aggregators
+-----------
+
+`newsboat`__ : C++/Rust
+  RSS/Atom feed reader for text terminals
+
+  __ https://newsboat.org/
+
+`rss2email`__ : Python
+  Converts RSS/Atom newsfeeds to email
+
+  __ https://github.com/rss2email/rss2email
+
+`urlwatch`__ : Python
+  Watch changes in webpages or command output and get notified (via e-mail, in
+  your terminal or through various third party services) of any changes
+
+  __ https://thp.io/2008/urlwatch/
+
 Bookmark managers
 -----------------
 
@@ -57,14 +76,6 @@ Clients
   Small but powerful text-based mail client for Unix operating systems
 
   __ http://www.mutt.org/
-
-Feed readers
-------------
-
-`newsboat`__ : C++/Rust
-  RSS/Atom feed reader for text terminals
-
-  __ https://newsboat.org/
 
 See also
 --------
