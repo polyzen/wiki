@@ -43,10 +43,9 @@ Development platforms
 
   __ https://gitlab.com/gitlab-org/gitlab-foss
 
-`Gogs`__ / `Gitea`__ : Go
-  Painless self-hosted Git service / Community fork
+`Gitea`__ : Go
+  Git with a cup of tea, painless self-hosted Git service
 
-  __ https://gogs.io
   __ https://gitea.io
 
 `sourcehut`__ : Python
@@ -80,7 +79,7 @@ Servers
 
   __ https://www.dovecot.org/
 
-`OpenSMTPD`__ : C : send
+`OpenSMTPD`__ : C : transfer
   FREE implementation of the server-side SMTP protocol as defined by :RFC:`5321`,
   with some additional standard extension
 
