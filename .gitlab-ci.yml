@@ -5,7 +5,7 @@ linkcheck:
 build:
   variables:
     PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
-  image: registry.gitlab.com/paddy-hack/sphinx/alpine:1.8.5
+  image: registry.gitlab.com/paddy-hack/sphinx
   cache:
     paths:
       - .cache/pip
