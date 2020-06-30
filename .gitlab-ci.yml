@@ -24,7 +24,8 @@ pages:
     GIT_STRATEGY: none
   image: alpine
   script:
-    - find public -type f -exec gzip -k {} +
+    - find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
+      gzip -k {} +
   artifacts:
     paths:
       - public
