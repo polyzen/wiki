@@ -17,6 +17,8 @@ build:
   artifacts:
     paths:
       - public
+  except:
+    - schedules
 
 pages:
   stage: deploy
@@ -31,3 +33,5 @@ pages:
       - public
   only:
     - master
+  except:
+    - schedules
