@@ -1,11 +1,20 @@
-linkcheck:
+default:
   image: registry.gitlab.com/paddy-hack/sphinx
+
+.dirhtml:
+  artifacts:
+    paths:
+      - public
+  except:
+    - schedules
+
+linkcheck:
   script: make -e SPHINXOPTS='--color' linkcheck
 
 build:
+  extends: .dirhtml
   variables:
     PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
-  image: registry.gitlab.com/paddy-hack/sphinx
   cache:
     paths:
       - .cache/pip
@@ -14,24 +23,15 @@ build:
     - make -e SPHINXOPTS='--color' dirhtml
   after_script:
     - mv _build/dirhtml public
-  artifacts:
-    paths:
-      - public
-  except:
-    - schedules
 
 pages:
+  extends: .dirhtml
   stage: deploy
   variables:
     GIT_STRATEGY: none
   image: alpine
   script:
-    - find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
-      gzip -k {} +
-  artifacts:
-    paths:
-      - public
+    find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
+    gzip -k {} +
   only:
     - master
-  except:
-    - schedules
