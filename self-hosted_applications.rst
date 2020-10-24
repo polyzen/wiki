@@ -34,6 +34,8 @@ Calendars & Contacts
 
   __ https://www.xandikos.org/
 
+.. _development-platforms:
+
 Development platforms
 ---------------------
 
@@ -154,13 +156,13 @@ Wikis
   __ https://wiki.js.org/
 
 .. note::
-   Alternatively, use a static site generator paired with a development
-   platform and continuous deployment. This wiki uses `Sphinx`__, `GitLab`__,
-   and `Netlify`__, respectively, to cover those three bases.
+   Another option would be to pair a static site generator with a
+   :ref:`development platform <development-platforms>`. This wiki uses
+   `Sphinx`__ and `GitLab`__, see its `.gitlab-ci.yml`__ file.
 
    __ https://www.sphinx-doc.org
-   __ https://gitlab.com
-   __ https://www.netlify.com
+   __ https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html
+   __ https://gitlab.com/polyzen/wiki/blob/master/.gitlab-ci.yml
 
 See also
 --------
