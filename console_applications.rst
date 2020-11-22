@@ -52,7 +52,7 @@ Email
 `mbsync`__ : C : sync
   IMAP and MailDir mailbox synchronizer
 
-  __ http://isync.sourceforge.net/
+  __ https://isync.sourceforge.io
 
 `Notmuch`__ : C/C++ : index
   Thread-based email index, search, and tagging
