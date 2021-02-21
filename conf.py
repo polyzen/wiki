@@ -102,7 +102,7 @@ html_context = {
     'conf_py_path': '/',
 }
 
-html_favicon = '_static/favicon.ico'
+html_favicon = '_static/favicon.svg'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
