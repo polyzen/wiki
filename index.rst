@@ -10,3 +10,4 @@ Welcome to this Wiki!
    security
    self-hosted_applications
    server_performance
+   Repository <https://gitlab.com/polyzen/wiki>
