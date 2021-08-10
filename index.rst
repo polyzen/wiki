@@ -6,6 +6,7 @@ Welcome to this Wiki!
    :maxdepth: 2
 
    console_applications
+   fonts
    programming
    security
    self-hosted_applications

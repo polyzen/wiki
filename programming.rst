@@ -59,6 +59,8 @@ Resources
 Front-end
 ^^^^^^^^^
 
+.. seealso:: :doc:`fonts`
+
 `Can I Use`__
   Provides up-to-date browser support tables for support of front-end web
   technologies on desktop and mobile web browsers
