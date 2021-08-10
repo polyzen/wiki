@@ -73,3 +73,9 @@ html_static_path = ['_static']
 html_use_index = False
 
 html_copy_source = False
+
+# -- Options for the linkcheck builder ---------------------------------------
+
+linkcheck_ignore = [
+    'https://material.io/design/typography/language-support.html#noto-guidance'
+]
