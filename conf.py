@@ -52,6 +52,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = 'furo'
 
+html_theme_options = {
+    "source_repository": "https://gitlab.com/polyzen/wiki",
+    "source_branch": "master",
+    "source_directory": "/",
+}
+
+
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
