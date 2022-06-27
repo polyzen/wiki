@@ -32,7 +32,7 @@ Calendars & Contacts
   Lightweight yet complete CardDAV/CalDAV server that backs onto a Git
   repository
 
-  __ https://www.xandikos.org/
+  __ https://github.com/jelmer/xandikos
 
 .. _development-platforms:
 

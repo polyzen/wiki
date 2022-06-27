@@ -7,8 +7,8 @@ Fonts
 
 - `Generic font families`__
 
-__ https://caniemoji.com/
-__ https://css-tricks.com/emojis-as-favicons/
+__ https://emojipedia.org/caniemoji/
+__ https://css-tricks.com/emoji-as-a-favicon/
 __ https://www.w3.org/TR/css-fonts-4/#generic-font-families
 
 System (aka "Web safe") fonts
@@ -39,5 +39,5 @@ Further reading
 
 __ https://en.wikipedia.org/wiki/List_of_typefaces_included_with_macOS
 __ https://en.wikipedia.org/wiki/List_of_typefaces_included_with_Microsoft_Windows
-__ https://wiki.archlinux.org/index.php/Metric-compatible_fonts
+__ https://wiki.archlinux.org/title/Metric-compatible_fonts
 __ https://viewportsizer.com/devices/

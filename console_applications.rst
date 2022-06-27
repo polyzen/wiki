@@ -39,7 +39,7 @@ Calendars & Contacts
 `khard`__ : Python : contacts
   Console carddav client
 
-  __ https://github.com/scheibler/khard
+  __ https://github.com/lucc/khard
 
 `Vdirsyncer`__ : Python : sync
   Synchronizes your calendars and addressbooks between two storages
