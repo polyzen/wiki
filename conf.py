@@ -30,6 +30,11 @@ author = 'See contribution graph \
 # ones.
 extensions = ['sphinxext.opengraph']
 
+try:
+    import sphinxext.opengraph
+except ImportError:
+    extensions.remove('sphinxext.opengraph')
+
 ogp_site_url = 'https://wiki.lacto.se'
 ogp_type = 'article'
 
