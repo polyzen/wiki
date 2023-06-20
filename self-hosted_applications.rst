@@ -123,7 +123,7 @@ Read later
 `wallabag`__ : PHP
   Self hostable application for saving web pages
 
-  __ https://wallabag.org/en
+  __ https://wallabag.org
 
 Wikis
 -----
