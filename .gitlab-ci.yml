@@ -13,6 +13,9 @@ linkcheck:
 
 build:
   extends: .dirhtml
+  cache:
+    paths:
+      - /opt/pipx/.cache
   before_script: pipx inject -vvv sphinx furo sphinxext-opengraph
   script: make -e SPHINXOPTS='--color' dirhtml
   after_script: mv _build/dirhtml public
