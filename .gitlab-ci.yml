@@ -13,14 +13,8 @@ linkcheck:
 
 build:
   extends: .dirhtml
-  variables:
-    PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
-  cache:
-    paths:
-      - .cache/pip
-  script:
-    - pip3 install furo sphinxext-opengraph
-    - make -e SPHINXOPTS='--color' dirhtml
+  before_script: pipx inject sphinx furo sphinxext-opengraph
+  script: make -e SPHINXOPTS='--color' dirhtml
   after_script: mv _build/dirhtml public
 
 pages:
