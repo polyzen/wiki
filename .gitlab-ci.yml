@@ -13,9 +13,11 @@ linkcheck:
 
 build:
   extends: .dirhtml
+  variables:
+    PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
   cache:
     paths:
-      - /opt/pipx/.cache
+      - .cache/pip
   before_script: pipx inject -vvv sphinx furo sphinxext-opengraph
   script: make -e SPHINXOPTS='--color' dirhtml
   after_script: mv _build/dirhtml public
