@@ -21,8 +21,7 @@ build:
   script:
     - pip3 install furo sphinxext-opengraph
     - make -e SPHINXOPTS='--color' dirhtml
-  after_script:
-    - mv _build/dirhtml public
+  after_script: mv _build/dirhtml public
 
 pages:
   extends: .dirhtml
@@ -30,8 +29,8 @@ pages:
   variables:
     GIT_STRATEGY: none
   image: alpine
-  script:
-    - find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
-      gzip -k {} +
+  script: >
+    find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
+    gzip -k {} +
   only:
     - master
