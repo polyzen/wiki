@@ -8,9 +8,6 @@ default:
   except:
     - schedules
 
-linkcheck:
-  script: make -e SPHINXOPTS='--color' linkcheck
-
 build:
   extends: .dirhtml
   variables:
@@ -18,18 +15,7 @@ build:
   cache:
     paths:
       - .cache/pip
-  before_script: pipx inject -vvv sphinx furo sphinxext-opengraph
-  script: make -e SPHINXOPTS='--color' dirhtml
-  after_script: mv _build/dirhtml public
-
-pages:
-  extends: .dirhtml
-  stage: deploy
-  variables:
-    GIT_STRATEGY: none
-  image: alpine
-  script: >
-    find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
-    gzip -k {} +
-  only:
-    - master
+  before_script:
+    - ls -R /opt/pipx
+    - pipx inject -vvv sphinx furo sphinxext-opengraph
+  script: ls -R /opt/pipx
