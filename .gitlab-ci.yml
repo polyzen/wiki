@@ -13,7 +13,7 @@ linkcheck:
 
 build:
   extends: .dirhtml
-  before_script: pipx inject sphinx furo sphinxext-opengraph
+  before_script: pipx inject -vvv sphinx furo sphinxext-opengraph
   script: make -e SPHINXOPTS='--color' dirhtml
   after_script: mv _build/dirhtml public
 
