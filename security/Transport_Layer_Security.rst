@@ -34,11 +34,11 @@ Resources
 
   __ https://letsencrypt.org/
 
-“`Security/Server Side TLS`__”
-  Contains information on TLS protocols, known issues and vulnerabilities,
-  configuration examples and testing tools
+`moz://a SSL Configuration Generator`__
+  Builds configuration files to help you follow the Mozilla Server Side TLS
+  configuration guidelines
 
-  __ https://wiki.mozilla.org/Security/Server_Side_TLS
+  __ https://ssl-config.mozilla.org/
 
 Test
 ----
