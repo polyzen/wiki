@@ -18,9 +18,6 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Wiki'
-copyright = '2023'
-author = 'See contribution graph \
-<https://gitlab.com/polyzen/wiki/graphs/master>'
 
 
 # -- General configuration ---------------------------------------------------
