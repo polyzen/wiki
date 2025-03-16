@@ -13,7 +13,7 @@ Network
   Scans log files and bans IPs that show the malicious signs -- too many
   password failures, seeking for exploits, etc
 
-  __ https://www.fail2ban.org
+  __ https://github.com/fail2ban/fail2ban
 
 `nftables`__ : C : firewall
   Administration tool for packet filtering and classification
@@ -27,7 +27,7 @@ Network
   - “`Secure Secure Shell`__”
 
   __ https://www.openssh.com/
-  __ https://stribika.github.io/2015/01/04/secure-secure-shell.html
+  __ https://blog.stribik.technology/2015/01/04/secure-secure-shell.html
 
 `WireGuard`__ : C : secure tunnel
   Extremely simple yet fast and modern VPN that utilizes state-of-the-art

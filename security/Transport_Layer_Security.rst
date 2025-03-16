@@ -53,7 +53,7 @@ Test
   Project designed to help developers, system administrators, and security
   professionals configure their sites safely and securely
 
-  __ https://observatory.mozilla.org/
+  __ https://developer.mozilla.org/en-US/observatory
 
 `Qualys SSL Labs SSL Server Test`__ : Web
   Performs a deep analysis of the configuration of any SSL web server on the
@@ -69,4 +69,4 @@ Test
 `testssl.sh`__ : Bash : CLI
   Testing TLS/SSL encryption anywhere on any port
 
-  __ https://github.com/drwetter/testssl.sh
+  __ https://github.com/testssl/testssl.sh

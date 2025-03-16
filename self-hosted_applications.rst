@@ -161,7 +161,7 @@ Wikis
    `Sphinx`__ and `GitLab`__, see its `.gitlab-ci.yml`__ file.
 
    __ https://www.sphinx-doc.org
-   __ https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html
+   __ https://docs.gitlab.com/user/project/pages/getting_started/pages_from_scratch/
    __ https://gitlab.com/polyzen/wiki/blob/master/.gitlab-ci.yml
 
 See also
