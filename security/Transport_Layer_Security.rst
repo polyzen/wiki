@@ -40,12 +40,6 @@ Resources
 
   __ https://wiki.mozilla.org/Security/Server_Side_TLS
 
-`Weak Diffie-Hellman and the Logjam Attack`__
-  Uncovered several weaknesses in how Diffie-Hellman key exchange has been
-  deployed
-
-  __ https://weakdh.org/
-
 Test
 ----
 
