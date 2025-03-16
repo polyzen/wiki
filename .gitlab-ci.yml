@@ -23,8 +23,9 @@ pages:
   variables:
     GIT_STRATEGY: none
   image: alpine
+  before_script: apk add brotli
   script: >
     find public -type f -regex '.*\.\(css\|html\|ico\|js\|png\)' -exec
-    gzip -k {} +
+    brotli {} +
   only:
     - master
