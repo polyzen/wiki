@@ -16,6 +16,6 @@ build:
     paths:
       - .cache/pip
   before_script:
-    - ls -aR /opt/pipx
+    - ls -aR .cache/pip
     - pipx inject -vvv sphinx furo sphinxext-opengraph
-  script: ls -aR /opt/pipx
+  script: ls -aR .cache/pip
