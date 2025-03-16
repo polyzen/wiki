@@ -65,7 +65,7 @@ Clients
 `aerc`__ : Go
   Email client for your terminal
 
-  __ https://git.sr.ht/~sircmpwn/aerc
+  __ https://sr.ht/~rjarry/aerc/
 
 `Alot`__ : Python
   Terminal-based mail user agent based on the Notmuch mail indexer
