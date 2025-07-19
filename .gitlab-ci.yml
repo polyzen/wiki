@@ -9,11 +9,12 @@ default:
     - schedules
 
 linkcheck:
+  before_script: pipx inject sphinx myst-parser
   script: make -e SPHINXOPTS='--color' linkcheck
 
 build:
   extends: .dirhtml
-  before_script: pipx inject sphinx furo sphinxext-opengraph
+  before_script: pipx inject sphinx furo myst-parser sphinxext-opengraph
   script: make -e SPHINXOPTS='--color' dirhtml
   after_script: mv _build/dirhtml public
 

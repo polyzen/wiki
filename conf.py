@@ -25,12 +25,17 @@ project = 'Wiki'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinxext.opengraph']
+extensions = ['myst_parser', 'sphinxext.opengraph']
 
 try:
     import sphinxext.opengraph
 except ImportError:
     extensions.remove('sphinxext.opengraph')
+
+myst_enable_extensions = [
+    "colon_fence",
+    "deflist",
+]
 
 ogp_site_url = 'https://wiki.lacto.se'
 ogp_type = 'article'
@@ -42,7 +47,7 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+source_suffix = { '.md': 'markdown' }
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
