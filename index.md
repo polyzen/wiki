@@ -1,4 +1,4 @@
-# Welcome to this Wiki!
+# Welcome to this Wiki
 
 ```{toctree}
 :includehidden: true

@@ -7,13 +7,13 @@
   connections and/or for users to be able to direct their user agent(s) to
   interact with given sites only over secure connections
 
-  - “[HSTS tutorial by Remy Van Elst](https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html)”
+: - “[HSTS tutorial by Remy Van Elst](https://raymii.org/s/tutorials/HTTP_Strict_Transport_Security_for_Apache_NGINX_and_Lighttpd.html)”
 
 {rfc}`Online Certificate Status Protocol (OCSP) <2560>`
 : Protocol useful in determining the current status of a digital certificate
   without requiring [Certificate Revocation Lists (CRLs)]
 
-  - “[The case for “OCSP Must-Staple”](https://www.grc.com/revocation/ocsp-must-staple.htm)”
+: - “[The case for “OCSP Must-Staple”](https://www.grc.com/revocation/ocsp-must-staple.htm)”
 
 ## Resources
 

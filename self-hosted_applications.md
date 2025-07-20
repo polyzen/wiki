@@ -101,8 +101,9 @@
 
 :::{note}
 Another option would be to pair a static site generator with a
-{ref}`development platform <development-platforms>`. This wiki uses
-[Sphinx](https://www.sphinx-doc.org) and [GitLab](https://docs.gitlab.com/user/project/pages/getting_started/pages_from_scratch/), see its [.gitlab-ci.yml](https://gitlab.com/polyzen/wiki/blob/master/.gitlab-ci.yml) file.
+{ref}`development platform <development-platforms>`. This wiki uses [Sphinx](https://www.sphinx-doc.org)
+and [GitLab](https://docs.gitlab.com/user/project/pages/getting_started/pages_from_scratch/),
+see its [.gitlab-ci.yml file](https://gitlab.com/polyzen/wiki/blob/master/.gitlab-ci.yml).
 :::
 
 ## See also

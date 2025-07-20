@@ -19,7 +19,7 @@ security/Transport_Layer_Security
 : Free SSH protocol suite providing encryption for network services like remote
   login or remote file transfers
 
-  - “[Secure Secure Shell](https://blog.stribik.technology/2015/01/04/secure-secure-shell.html)”
+: - “[Secure Secure Shell](https://blog.stribik.technology/2015/01/04/secure-secure-shell.html)”
 
 [WireGuard](https://www.wireguard.com/) : C : secure tunnel
 : Extremely simple yet fast and modern VPN that utilizes state-of-the-art
@@ -54,7 +54,7 @@ security/Transport_Layer_Security
   page can fetch or execute, as well as a number of security-relevant policy
   decisions
 
-  - [Quick Reference Guide](https://content-security-policy.com/)
+: - [Quick Reference Guide](https://content-security-policy.com/)
 
 [X-Content-Type-Options](https://fetch.spec.whatwg.org/#x-content-type-options-header)
 : Require checking of a response’s `Content-Type` header against the
