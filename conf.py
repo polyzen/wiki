@@ -93,6 +93,4 @@ html_copy_source = False
 
 # -- Options for the linkcheck builder ---------------------------------------
 
-linkcheck_ignore = [
-    'https://material.io/design/typography/language-support.html#noto-guidance'
-]
+linkcheck_ignore = ['https://tt-rss.org']
