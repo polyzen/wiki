@@ -44,7 +44,7 @@
 
 ## Further reading
 
-- [Cross-Origin Resource Sharing (CORS)](https://enable-cors.org/) - Mechanism to enable client-side
-  cross-origin requests
-- [Zstandard (zstd)](https://facebook.github.io/zstd/) - Real-time compression algorithm, providing
-  high compression ratios
+- [Cross-Origin Resource Sharing (CORS)](https://enable-cors.org/) - Mechanism
+  to enable client-side cross-origin requests
+- [Zstandard (zstd)](https://facebook.github.io/zstd/) - Real-time compression
+  algorithm, providing high compression ratios
