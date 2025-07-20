@@ -1,6 +1,6 @@
 # Fonts
 
-- [Can I Emoji❓](https://emojipedia.org/caniemoji/) (Yes)
+- [Can I Emoji❓](https://emojipedia.org/caniemoji) (Yes)
 
   - [Emoji as favicon](https://css-tricks.com/emoji-as-a-favicon/)
 
@@ -10,7 +10,7 @@
 
 - Operating systems default monospace fonts:
 
-  - Android/Chrome OS: Droid Sans Mono -> Noto Sans Mono (on Chrome OS) -> Roboto Mono (with [Noto fallback](https://material.io/design/typography/language-support.html#noto-guidance))
+  - Android/Chrome OS: Droid Sans Mono -> Noto Sans Mono (on Chrome OS) -> [Roboto Mono (with a Noto fallback)](https://m3.material.io/styles/typography/fonts)
   - macOS: Monaco -> Menlo -> [SF Mono](https://bugzilla.mozilla.org/show_bug.cgi?id=1342741#c3)
   - Windows: Courier New -> Lucida Console -> Consolas
 

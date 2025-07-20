@@ -29,7 +29,7 @@
 : Open source end-to-end software development platform with built-in version
   control, issue tracking, code review, CI/CD, and more
 
-[Gitea](https://gitea.io) : Go
+[Gitea](https://about.gitea.com) : Go
 : Git with a cup of tea, painless self-hosted Git service
 
 [sourcehut](https://sourcehut.org) : Python
@@ -48,7 +48,7 @@
 
 ### Servers
 
-[Dovecot](https://www.dovecot.org/) : C : retrieve
+[Dovecot](https://dovecot.org) : C : retrieve
 : Open source IMAP and POP3 email server for Linux/UNIX-like systems, written
   with security primarily in mind
 
