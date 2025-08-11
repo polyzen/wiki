@@ -33,7 +33,7 @@ myst_enable_extensions = [
 
 # -- Options for Open Graph --------------------------------------------------
 
-ogp_site_url = 'https://wiki.lacto.se'
+ogp_site_url = 'https://wiki.danielcapella.com'
 ogp_type = 'article'
 
 # -- Options for HTML output -------------------------------------------------
